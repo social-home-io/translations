@@ -69,6 +69,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 
 ## Site web
 
-| English        | Français      |
-| -------------- | ------------- |
-| Under the hood | Sous le capot |
+| English                    | Français                                  |
+| -------------------------- | ----------------------------------------- |
+| Under the hood             | Sous le capot                             |
+| Social Home (Early) add-on | module complémentaire Social Home (Early) |

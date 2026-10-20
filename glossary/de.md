@@ -71,6 +71,7 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 
 ## Website
 
-| English        | Deutsch         |
-| -------------- | --------------- |
-| Under the hood | Unter der Haube |
+| English                    | Deutsch                    |
+| -------------------------- | -------------------------- |
+| Under the hood             | Unter der Haube            |
+| Social Home (Early) add-on | Social Home (Early) Add-on |

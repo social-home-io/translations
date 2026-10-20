@@ -69,6 +69,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 
 ## Website
 
-| English        | Nederlands        |
-| -------------- | ----------------- |
-| Under the hood | Onder de motorkap |
+| English                    | Nederlands                 |
+| -------------------------- | -------------------------- |
+| Under the hood             | Onder de motorkap          |
+| Social Home (Early) add-on | Social Home (Early) add-on |
