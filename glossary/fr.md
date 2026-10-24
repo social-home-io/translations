@@ -69,7 +69,9 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 
 ## Site web
 
-| English                    | Français                                  |
-| -------------------------- | ----------------------------------------- |
-| Under the hood             | Sous le capot                             |
-| Social Home (Early) add-on | module complémentaire Social Home (Early) |
+| English                          | Français                                             |
+| -------------------------------- | ---------------------------------------------------- |
+| Under the hood                   | Sous le capot                                        |
+| Home Assistant app (was: add-on) | la Home Assistant App ; en prose : l'app Social Home |
+| Social Home (Early)              | Social Home (Early)                                  |
+| Social Home viewer               | la visionneuse Social Home                           |

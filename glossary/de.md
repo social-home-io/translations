@@ -71,7 +71,9 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 
 ## Website
 
-| English                    | Deutsch                    |
-| -------------------------- | -------------------------- |
-| Under the hood             | Unter der Haube            |
-| Social Home (Early) add-on | Social Home (Early) Add-on |
+| English                          | Deutsch             |
+| -------------------------------- | ------------------- |
+| Under the hood                   | Unter der Haube     |
+| Home Assistant app (was: add-on) | Home Assistant App  |
+| Social Home (Early)              | Social Home (Early) |
+| Social Home viewer               | Social Home Viewer  |
