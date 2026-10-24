@@ -69,7 +69,9 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 
 ## Website
 
-| English                    | Nederlands                 |
-| -------------------------- | -------------------------- |
-| Under the hood             | Onder de motorkap          |
-| Social Home (Early) add-on | Social Home (Early) add-on |
+| English                          | Nederlands          |
+| -------------------------------- | ------------------- |
+| Under the hood                   | Onder de motorkap   |
+| Home Assistant app (was: add-on) | Home Assistant App  |
+| Social Home (Early)              | Social Home (Early) |
+| Social Home viewer               | Social Home-viewer  |
