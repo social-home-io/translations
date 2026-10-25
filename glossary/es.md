@@ -36,6 +36,7 @@ under "Open" are still undecided.
 | English                        | Español                           | Notes                        |
 | ------------------------------ | --------------------------------- | ---------------------------- |
 | Connections (settings page)    | Conexiones                        |                              |
+| pair / paired households       | vincular / hogares vinculados     | pairing = vinculación. **Not "emparejar"/"conectar"** (decided 2026-10-25): "conectar" belongs to Conexiones |
 | GFS (Global Federation Server) | GFS (Global Federation Server)    | el GFS                       |
 | GFS link / Local link          | Enlace del GFS / Enlace local     |                              |
 | sealed, encrypted home to home | sellado, cifrado de hogar a hogar | Never "de extremo a extremo" |
@@ -55,8 +56,3 @@ under "Open" are still undecided.
 | Presence                             | Presencia  |                                    |
 | Corner                               | Mi rincón  |                                    |
 | Highlights, Momentum, Organize, Apps | unchanged  | Names, see GUIDE. Not "Destacados" |
-
-## Open
-
-- **pair / paired households:** the app mixes "emparejar",
-  "conectar" and "hogares vinculados". Pick one and align the app.
