@@ -67,6 +67,7 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Corner                               | Meine Ecke    |                                                                         |
 | Zones                                | Zonen         |                                                                         |
 | Shopping                             | Einkaufsliste |                                                                         |
+| Notifications (bell, page, settings) | **Mitteilungen** | One name for the feature everywhere: bell, page, settings, push (Push-Mitteilungen). **Not "Benachrichtigungen", "Hinweise"** (decided 2026-10-27). The verb stays: "benachrichtigen" |
 | Highlights, Momentum, Organize, Apps | unchanged     | Names, see GUIDE                                                        |
 
 ## Website

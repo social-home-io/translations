@@ -65,6 +65,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Corner                               | Mijn hoek    |                                                                       |
 | Zones                                | Zones        |                                                                       |
 | Shopping                             | Boodschappen |                                                                       |
+| Notifications (bell, page, settings) | **Meldingen** | One name for the feature everywhere: bell, page, settings, push (pushmeldingen). Not "Notificaties", "Waarschuwingen" (decided 2026-10-27) |
 | Highlights, Momentum, Organize, Apps | unchanged    | Names, see GUIDE. Not "Hoogtepunten"                                  |
 
 ## Website
