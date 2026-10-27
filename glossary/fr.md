@@ -65,6 +65,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Corner                               | Mon coin        |                                                                   |
 | Zones                                | Zones           |                                                                   |
 | Shopping                             | Courses         |                                                                   |
+| Notifications (bell, page, settings) | **Notifications** | One name for the feature everywhere: bell, page, settings, push. **Not "Alertes"** (decided 2026-10-27) |
 | Highlights, Momentum, Organize, Apps | unchanged       | Names, see GUIDE. Not "Temps forts"                               |
 
 ## Site web

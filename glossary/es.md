@@ -55,4 +55,5 @@ under "Open" are still undecided.
 | Timetable                            | Horario    |                                    |
 | Presence                             | Presencia  |                                    |
 | Corner                               | Mi rincón  |                                    |
+| Notifications (bell, page, settings) | **Notificaciones** | One name for the feature everywhere: bell, page, settings, push. **Not "Avisos", "Alertas"** (decided 2026-10-27) |
 | Highlights, Momentum, Organize, Apps | unchanged  | Names, see GUIDE. Not "Destacados" |
