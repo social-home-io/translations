@@ -71,6 +71,23 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | View invite | Voir | Opens the invite; never joins in one tap. Short, so the button pair fits on a phone |
 | Highlights, Momentum, Organize, Apps | unchanged       | Names, see GUIDE. Not "Temps forts"                               |
 
+## Réglages des notifications
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Everything (level of a space or chat) | Tout | One vocabulary for spaces and chats |
+| Replies and mentions (level, and a kind) | Réponses et mentions | Not "Seulement les @mentions" |
+| Nothing (level) | Rien | Then asks "Pendant combien de temps ?". Not "En sourdine" as a level name |
+| Push / In app / Off (one choice per kind) | Push / Dans l’app / Désactivé | "Dans l’app" = only in Notifications, no push |
+| Messages and calls | Messages et appels |  |
+| Needs you | Attend votre décision | As above |
+| Plans and tasks | Événements et tâches | Events you go to, reminders, tasks |
+| About you | Vous concernant | Answers to your requests, decisions about your posts, Bazar |
+| Reactions and follows | Réactions et abonnés |  |
+| Activity in your spaces | Activité dans vos espaces |  |
+| Muted and changed | En sourdine ou modifiés | The list of spaces, chats and posts not at their default |
+| Mute this post | Mettre cette publication en sourdine | mute = mettre en sourdine |
+
 ## Site web
 
 | English                          | Français                                             |

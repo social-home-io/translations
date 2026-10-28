@@ -71,6 +71,23 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | View invite | Bekijken | Opens the invite; never joins in one tap |
 | Highlights, Momentum, Organize, Apps | unchanged    | Names, see GUIDE. Not "Hoogtepunten"                                  |
 
+## Meldingen instellen
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Everything (level of a space or chat) | Alles | One vocabulary for spaces and chats |
+| Replies and mentions (level, and a kind) | Antwoorden en vermeldingen | Not "Reacties" (that is a comment, and an emoji reaction). Not "Alleen @vermeldingen" |
+| Nothing (level) | Niets | Then asks "Hoe lang?". Not "Gedempt" as a level name |
+| Push / In app / Off (one choice per kind) | Push / In de app / Uit | "In de app" = only in Meldingen, no push |
+| Messages and calls | Berichten en oproepen |  |
+| Needs you | Wacht op jou | As above |
+| Plans and tasks | Afspraken en taken | Events you go to, reminders, tasks |
+| About you | Over jou | Answers to your requests, decisions about your posts, Bazaar |
+| Reactions and follows | Reacties en volgers | Reactions = emoji reactions |
+| Activity in your spaces | Activiteit in je spaces |  |
+| Muted and changed | Gedempt en aangepast | The list of spaces, chats and posts not at their default |
+| Mute this post | Dit bericht dempen | mute = dempen |
+
 ## Website
 
 | English                          | Nederlands          |
