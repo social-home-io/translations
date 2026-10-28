@@ -73,7 +73,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | English | Nederlands | Notes |
 | --- | --- | --- |
 | Everything (level of a space or chat) | Alles | One vocabulary for spaces and chats |
-| Replies and mentions (level, and a kind) | Reacties en vermeldingen | Not "Alleen @vermeldingen" |
+| Replies and mentions (level, and a kind) | Antwoorden en vermeldingen | Not "Reacties" (that is a comment, and an emoji reaction). Not "Alleen @vermeldingen" |
 | Nothing (level) | Niets | Then asks "Hoe lang?". Not "Gedempt" as a level name |
 | Push / In app / Off (one choice per kind) | Push / In de app / Uit | "In de app" = only in Meldingen, no push |
 | Messages and calls | Berichten en oproepen |  |
