@@ -56,4 +56,7 @@ under "Open" are still undecided.
 | Presence                             | Presencia  |                                    |
 | Corner                               | Mi rincón  |                                    |
 | Notifications (bell, page, settings) | **Notificaciones** | One name for the feature everywhere: bell, page, settings, push. **Not "Avisos", "Alertas"** (decided 2026-10-27) |
+| Needs you (Notifications section, and Spaces) | Te necesita | Requests waiting for your decision, pinned on top. Same as the app's Spaces › Needs you |
+| Approve / Decline (a request) | Aprobar / Rechazar | Buttons on a join request |
+| View invite | Ver | Opens the invite; never joins in one tap |
 | Highlights, Momentum, Organize, Apps | unchanged  | Names, see GUIDE. Not "Destacados" |
