@@ -69,6 +69,8 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Needs you (Notifications section) | Wacht op jou | Requests waiting for your decision, pinned on top. Same as Spaces › Needs you |
 | Approve / Decline (a request) | Goedkeuren / Afwijzen | Buttons on a join request |
 | View invite | Bekijken | Opens the invite; never joins in one tap |
+| Accept (a request to message you) | Accepteren | Button on a contact request; opens the chat |
+| Play (a game invite) | Spelen | Button on a game invite (e.g. chess); opens the game. Short, so the button pair fits on a phone |
 | Highlights, Momentum, Organize, Apps | unchanged    | Names, see GUIDE. Not "Hoogtepunten"                                  |
 
 ## Meldingen instellen
