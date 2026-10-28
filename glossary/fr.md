@@ -69,6 +69,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Needs you (Notifications section) | Attend votre décision | Requests waiting for your decision, pinned on top. Same as Spaces › Needs you |
 | Approve / Decline (a request) | Approuver / Refuser | Buttons on a join request |
 | View invite | Voir | Opens the invite; never joins in one tap. Short, so the button pair fits on a phone |
+| Play (a game invite) | Jouer | Button on a game invite (e.g. chess); opens the game. Short, so the button pair fits on a phone |
 | Highlights, Momentum, Organize, Apps | unchanged       | Names, see GUIDE. Not "Temps forts"                               |
 
 ## Réglages des notifications

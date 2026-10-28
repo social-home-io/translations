@@ -59,6 +59,7 @@ under "Open" are still undecided.
 | Needs you (Notifications section, and Spaces) | Te necesita | Requests waiting for your decision, pinned on top. Same as the app's Spaces › Needs you |
 | Approve / Decline (a request) | Aprobar / Rechazar | Buttons on a join request |
 | View invite | Ver | Opens the invite; never joins in one tap |
+| Play (a game invite) | Jugar | Button on a game invite (e.g. chess); opens the game. Short, so the button pair fits on a phone |
 | Highlights, Momentum, Organize, Apps | unchanged  | Names, see GUIDE. Not "Destacados" |
 
 ## Ajustes de notificaciones
