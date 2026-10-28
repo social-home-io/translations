@@ -57,3 +57,20 @@ under "Open" are still undecided.
 | Corner                               | Mi rincón  |                                    |
 | Notifications (bell, page, settings) | **Notificaciones** | One name for the feature everywhere: bell, page, settings, push. **Not "Avisos", "Alertas"** (decided 2026-10-27) |
 | Highlights, Momentum, Organize, Apps | unchanged  | Names, see GUIDE. Not "Destacados" |
+
+## Ajustes de notificaciones
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Everything (level of a space or chat) | Todo | One vocabulary for spaces and chats |
+| Replies and mentions (level, and a kind) | Respuestas y menciones | Not "Solo @menciones" |
+| Nothing (level) | Nada | Then asks "¿Durante cuánto tiempo?". Not "Silenciado" as a level name |
+| Push / In app / Off (one choice per kind) | Push / En la app / Desactivado | "En la app" = only in Notificaciones, no push |
+| Messages and calls | Mensajes y llamadas |  |
+| Needs you | Te necesita | As above |
+| Plans and tasks | Planes y tareas | Events you go to, reminders, tasks |
+| About you | Sobre ti | Answers to your requests, decisions about your posts, Bazar |
+| Reactions and follows | Reacciones y seguidores |  |
+| Activity in your spaces | Actividad en tus espacios |  |
+| Muted and changed | Silenciados y cambiados | The list of spaces, chats and posts not at their default |
+| Mute this post | Silenciar esta publicación | mute = silenciar |

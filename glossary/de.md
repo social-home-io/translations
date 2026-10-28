@@ -70,6 +70,23 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Notifications (bell, page, settings) | **Mitteilungen** | One name for the feature everywhere: bell, page, settings, push (Push-Mitteilungen). **Not "Benachrichtigungen", "Hinweise"** (decided 2026-10-27). The verb stays: "benachrichtigen" |
 | Highlights, Momentum, Organize, Apps | unchanged     | Names, see GUIDE                                                        |
 
+## Mitteilungen einstellen
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Everything (level of a space or chat) | Alles | One vocabulary for spaces and chats |
+| Replies and mentions (level, and a kind) | Antworten und Erwähnungen | Not "Nur @Erwähnungen" |
+| Nothing (level) | Nichts | Then asks "Für wie lange?". Not "Stumm" as a level name |
+| Push / In app / Off (one choice per kind) | Push / In der App / Aus | "In der App" = only in Mitteilungen, no push |
+| Messages and calls | Nachrichten und Anrufe |  |
+| Needs you | Wartet auf dich | As above |
+| Plans and tasks | Termine und Aufgaben | Events you go to, reminders, tasks |
+| About you | Über dich | Answers to your requests, decisions about your posts, Basar |
+| Reactions and follows | Reaktionen und Follower |  |
+| Activity in your spaces | Aktivität in deinen Spaces | Always qualified, so no clash with the activity log |
+| Muted and changed | Stumm und geändert | The list of spaces, chats and posts not at their default |
+| Mute this post | Diesen Beitrag stummschalten | mute = stummschalten |
+
 ## Website
 
 | English                          | Deutsch             |
