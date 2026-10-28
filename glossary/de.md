@@ -71,7 +71,6 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Needs you (Notifications section) | Wartet auf dich | Requests waiting for your decision, pinned on top. Same as Spaces › Needs you |
 | Approve / Decline (a request) | Annehmen / Ablehnen | Buttons on a join request. "Ablehnen" is undone with "Rückgängig" |
 | View invite | Ansehen | Opens the invite; never joins in one tap. Short, so the button pair fits on a phone |
-| Accept (a request to message you) | Annehmen | Button on a contact request; opens the chat. Same word as Approve |
 | Play (a game invite) | Spielen | Button on a game invite (e.g. chess); opens the game. Short, so the button pair fits on a phone |
 | Highlights, Momentum, Organize, Apps | unchanged     | Names, see GUIDE                                                        |
 
