@@ -66,6 +66,9 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Zones                                | Zones        |                                                                       |
 | Shopping                             | Boodschappen |                                                                       |
 | Notifications (bell, page, settings) | **Meldingen** | One name for the feature everywhere: bell, page, settings, push (pushmeldingen). Not "Notificaties", "Waarschuwingen" (decided 2026-10-27) |
+| Needs you (Notifications section) | Wacht op jou | Requests waiting for your decision, pinned on top. Same as Spaces › Needs you |
+| Approve / Decline (a request) | Goedkeuren / Afwijzen | Buttons on a join request |
+| View invite | Bekijken | Opens the invite; never joins in one tap |
 | Highlights, Momentum, Organize, Apps | unchanged    | Names, see GUIDE. Not "Hoogtepunten"                                  |
 
 ## Website

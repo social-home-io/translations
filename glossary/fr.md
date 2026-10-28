@@ -66,6 +66,9 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Zones                                | Zones           |                                                                   |
 | Shopping                             | Courses         |                                                                   |
 | Notifications (bell, page, settings) | **Notifications** | One name for the feature everywhere: bell, page, settings, push. **Not "Alertes"** (decided 2026-10-27) |
+| Needs you (Notifications section) | Attend votre décision | Requests waiting for your decision, pinned on top. Same as Spaces › Needs you |
+| Approve / Decline (a request) | Approuver / Refuser | Buttons on a join request |
+| View invite | Voir | Opens the invite; never joins in one tap. Short, so the button pair fits on a phone |
 | Highlights, Momentum, Organize, Apps | unchanged       | Names, see GUIDE. Not "Temps forts"                               |
 
 ## Site web
