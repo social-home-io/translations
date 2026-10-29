@@ -78,3 +78,23 @@ under "Open" are still undecided.
 | Activity in your spaces | Actividad en tus espacios |  |
 | Muted and changed | Silenciados y cambiados | The list of spaces, chats and posts not at their default |
 | Mute this post | Silenciar esta publicación | mute = silenciar |
+
+## Apps
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Apps (the page, a section) | Apps | Name, never translated |
+| Add to household (an app) | Añadir al hogar | An admin adds an app for everyone. Not "install" (developer language) |
+| More apps | Más apps | The apps the household could add. Never "Store" |
+| Ask an admin | Pedir a un admin | A member asks for an app |
+| Ask a grown-up | Pedir a un adulto | A protected account (a child) asks its guardians. Warm, everyday word |
+| Asked (an app) | Pedida | The request is waiting |
+| protected account | cuenta protegida | An account under child protection |
+| From Social Home (where an app comes from) | De Social Home | Never "verified" |
+| set by your server operator | elegido por quien gestiona tu servidor | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
+| Needs a newer Social Home | Necesita un Social Home más reciente | An app this Social Home is too old for |
+| Saves its own data for each person (permission) | Guarda sus propios datos para cada persona | Permission text is always Social Home’s, never the publisher’s |
+| Lets you pick people to play with (permission) | Eliges con quién jugar |  |
+| Sends invites and moves to other households (permission) | Envía invitaciones y jugadas a otros hogares |  |
+| It can never … | Nunca puede … | The fixed list of what no app can do |
+| Turn on / Turn off (an app) | Activar / Desactivar | Everything saved in it is kept |
