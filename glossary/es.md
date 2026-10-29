@@ -94,7 +94,7 @@ under "Open" are still undecided.
 | set by your server operator | elegido por quien gestiona tu servidor | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
 | Needs a newer Social Home | Necesita un Social Home más reciente | An app this Social Home is too old for |
 | Saves its own data for each person (permission) | Guarda sus propios datos para cada persona | Permission text is always Social Home’s, never the publisher’s |
-| Lets you pick people to play with (permission) | Eliges con quién jugar |  |
+| Lets it invite people you know (permission) | Puede invitar a personas que conoces | Until invites go only through Social Home (app PR 9) the app sees the people you can message; then it becomes "Lets you pick people to play with" |
 | Sends invites and moves to other households (permission) | Envía invitaciones y jugadas a otros hogares |  |
 | It can never … | Nunca puede … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Activar / Desactivar | Everything saved in it is kept |
