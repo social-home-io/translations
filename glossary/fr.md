@@ -89,6 +89,26 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Muted and changed | En sourdine ou modifiés | The list of spaces, chats and posts not at their default |
 | Mute this post | Mettre cette publication en sourdine | mute = mettre en sourdine |
 
+## Apps
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Apps (the page, a section) | Apps | Name, never translated |
+| Add to household (an app) | Ajouter au foyer | An admin adds an app for everyone. Not "install" (developer language) |
+| More apps | Autres apps | The apps the household could add. Never "Store" |
+| Ask an admin | Demander à un admin | A member asks for an app |
+| Ask a grown-up | Demander à un adulte | A protected account (a child) asks its guardians. Warm, everyday word |
+| Asked (an app) | Demandée | The request is waiting |
+| protected account | compte protégé | An account under child protection |
+| From Social Home (where an app comes from) | Par Social Home | Never "verified" |
+| set by your server operator | choisi par l’exploitant de votre serveur | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
+| Needs a newer Social Home | Nécessite un Social Home plus récent | An app this Social Home is too old for |
+| Saves its own data for each person (permission) | Enregistre ses propres données pour chaque personne | Permission text is always Social Home’s, never the publisher’s |
+| Lets you pick people to play with (permission) | Vous choisissez avec qui jouer |  |
+| Sends invites and moves to other households (permission) | Envoie des invitations et des coups à d’autres foyers |  |
+| It can never … | Elle ne peut jamais … | The fixed list of what no app can do |
+| Turn on / Turn off (an app) | Activer / Désactiver | Everything saved in it is kept |
+
 ## Site web
 
 | English                          | Français                                             |
