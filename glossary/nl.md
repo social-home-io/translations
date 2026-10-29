@@ -104,7 +104,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | set by your server operator | ingesteld door de beheerder van je server | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
 | Needs a newer Social Home | Heeft een nieuwere Social Home nodig | An app this Social Home is too old for |
 | Saves its own data for each person (permission) | Bewaart eigen gegevens per persoon | Permission text is always Social Home’s, never the publisher’s |
-| Lets it invite people you know (permission) | Kan mensen uitnodigen die je kent | Until invites go only through Social Home (app PR 9) the app sees the people you can message; then it becomes "Lets you pick people to play with" |
+| Lets you pick people to play with (permission) | Laat je mensen kiezen om mee te spelen | Invites go only through Social Home's own invite sheet (app PR 9): the app learns only who you picked and who you play with in it. Was "Lets it invite people you know" |
 | Sends invites and moves to other households (permission) | Stuurt uitnodigingen en zetten naar andere huishoudens |  |
 | It can never … | Het kan nooit … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Aanzetten / Uitzetten | Everything saved in it is kept |
