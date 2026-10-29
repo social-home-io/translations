@@ -91,6 +91,26 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Muted and changed | Stumm und geändert | The list of spaces, chats and posts not at their default |
 | Mute this post | Diesen Beitrag stummschalten | mute = stummschalten |
 
+## Apps
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Apps (the page, a section) | Apps | Name, never translated |
+| Add to household (an app) | Zum Haushalt hinzufügen | An admin adds an app for everyone. Not "install" (developer language) |
+| More apps | Weitere Apps | The apps the household could add. Never "Store" |
+| Ask an admin | Admin fragen | A member asks for an app |
+| Ask a grown-up | Erwachsene fragen | A protected account (a child) asks its guardians. Warm, everyday word |
+| Asked (an app) | Gefragt | The request is waiting |
+| protected account | geschütztes Konto | An account under child protection |
+| From Social Home (where an app comes from) | Von Social Home | Never "verified" |
+| set by your server operator | vom Betreiber deines Servers festgelegt | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
+| Needs a newer Social Home | Braucht ein neueres Social Home | An app this Social Home is too old for |
+| Saves its own data for each person (permission) | Speichert eigene Daten für jede Person | Permission text is always Social Home’s, never the publisher’s |
+| Lets it invite people you know (permission) | Kann Leute einladen, die du kennst | Until invites go only through Social Home (app PR 9) the app sees the people you can message; then it becomes "Lets you pick people to play with" |
+| Sends invites and moves to other households (permission) | Schickt Einladungen und Züge an andere Haushalte |  |
+| It can never … | Es kann nie … | The fixed list of what no app can do |
+| Turn on / Turn off (an app) | Einschalten / Ausschalten | Everything saved in it is kept |
+
 ## Website
 
 | English                          | Deutsch             |

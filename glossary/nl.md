@@ -89,6 +89,26 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Muted and changed | Gedempt en aangepast | The list of spaces, chats and posts not at their default |
 | Mute this post | Dit bericht dempen | mute = dempen |
 
+## Apps
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Apps (the page, a section) | Apps | Name, never translated |
+| Add to household (an app) | Aan huishouden toevoegen | An admin adds an app for everyone. Not "install" (developer language) |
+| More apps | Meer apps | The apps the household could add. Never "Store" |
+| Ask an admin | Beheerder vragen | A member asks for an app |
+| Ask a grown-up | Volwassene vragen | A protected account (a child) asks its guardians. Warm, everyday word |
+| Asked (an app) | Gevraagd | The request is waiting |
+| protected account | beschermd account | An account under child protection |
+| From Social Home (where an app comes from) | Van Social Home | Never "verified" |
+| set by your server operator | ingesteld door de beheerder van je server | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
+| Needs a newer Social Home | Heeft een nieuwere Social Home nodig | An app this Social Home is too old for |
+| Saves its own data for each person (permission) | Bewaart eigen gegevens per persoon | Permission text is always Social Home’s, never the publisher’s |
+| Lets it invite people you know (permission) | Kan mensen uitnodigen die je kent | Until invites go only through Social Home (app PR 9) the app sees the people you can message; then it becomes "Lets you pick people to play with" |
+| Sends invites and moves to other households (permission) | Stuurt uitnodigingen en zetten naar andere huishoudens |  |
+| It can never … | Het kan nooit … | The fixed list of what no app can do |
+| Turn on / Turn off (an app) | Aanzetten / Uitzetten | Everything saved in it is kept |
+
 ## Website
 
 | English                          | Nederlands          |
