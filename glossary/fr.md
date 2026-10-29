@@ -104,7 +104,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | set by your server operator | choisi par l’exploitant de votre serveur | The operator changed where the app list comes from. FR avoids "admin" (that is the household role) |
 | Needs a newer Social Home | Nécessite un Social Home plus récent | An app this Social Home is too old for |
 | Saves its own data for each person (permission) | Enregistre ses propres données pour chaque personne | Permission text is always Social Home’s, never the publisher’s |
-| Lets it invite people you know (permission) | Peut inviter des personnes que vous connaissez | Until invites go only through Social Home (app PR 9) the app sees the people you can message; then it becomes "Lets you pick people to play with" |
+| Lets you pick people to play with (permission) | Vous laisse choisir des personnes avec qui jouer | Invites go only through Social Home's own invite sheet (app PR 9): the app learns only who you picked and who you play with in it. Was "Lets it invite people you know" |
 | Sends invites and moves to other households (permission) | Envoie des invitations et des coups à d’autres foyers |  |
 | It can never … | Elle ne peut jamais … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Activer / Désactiver | Everything saved in it is kept |
