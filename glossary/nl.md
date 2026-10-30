@@ -150,6 +150,29 @@ Chess terms in the Chess app (socialhome-apps). Use the standard chess word of t
 | White / Black (sides) | Wit / Zwart |  |
 | PGN | PGN | Portable Game Notation, never translated |
 
+## Go
+
+Go terms in the Go app (socialhome-apps). Use the established Go word of the language.
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Go (the app) | Go | A name in every language; never "Weiqi" or "Baduk" in the UI |
+| stone / black stone / white stone | steen / zwarte steen / witte steen |  |
+| Black / White (sides) | Zwart / Wit | "Zwart is aan de beurt" |
+| capture / captures (count) | slaan / geslagen stenen | "Ben heeft 2 stenen geslagen" |
+| pass / Pass | passen / Passen |  |
+| territory | gebied |  |
+| area scoring | gebiedstelling | Stones on the board plus surrounded points (Chinese rules) |
+| komi | komi | Points for White |
+| ko / superko | ko / superko | Never translated |
+| suicide (a move) | zelfmoord | Only in the rule text |
+| dead stones / mark dead stones | dode stenen / dode stenen aanwijzen |  |
+| Resume play | Partij hervatten | Back to play after the counting. Not "Verder spelen" (the Resign dialog's cancel) |
+| resign / Resign | opgeven / Opgeven | As in Chess |
+| star point (hoshi) | sterpunt |  |
+| board size 9 × 9 | bord 9 × 9 |  |
+| Black wins by 3.5 | Zwart wint met 3,5 punt | Decimal comma |
+
 ## Website
 
 | English                          | Nederlands          |
