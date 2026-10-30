@@ -131,6 +131,25 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 | Rematch | Revanche |  |
 | void (a game) | ongeldig | Neutral: never "vals spelen" |
 
+## Chess
+
+Chess terms in the Chess app (socialhome-apps). Use the standard chess word of the language.
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| resign / Resign | opgeven / Opgeven | Means resigning in chess: the opponent is told and wins. Removing a game is "Verwijderen" |
+| draw / Offer draw / Accept draw | remise / Remise aanbieden / Remise aannemen |  |
+| Draw by repetition | Remise door herhaling |  |
+| 50-move rule | 50-zettenregel |  |
+| stalemate | pat |  |
+| checkmate / check | schaakmat / schaak |  |
+| castling (kingside / queenside) | rokade (korte / lange rokade) |  |
+| en passant | en passant |  |
+| promotion (promote your pawn) | promotie (pion promoveren) |  |
+| queen / rook / bishop / knight / king / pawn | dame / toren / loper / paard / koning / pion |  |
+| White / Black (sides) | Wit / Zwart |  |
+| PGN | PGN | Portable Game Notation, never translated |
+
 ## Website
 
 | English                          | Nederlands          |
