@@ -114,6 +114,23 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | It can never … | Het kan nooit … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Aanzetten / Uitzetten | Everything saved in it is kept |
 
+## Spellen
+
+The games among the Apps. Game names are ordinary words, so each language uses its own generic name (decided 2026-10-30).
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Chess (the app) | Schaken | An ordinary word, so translated (unlike Apps names in GUIDE) |
+| Battleships (the app) | Zeeslag | The generic name of the paper game. Never "Battleship" |
+| game (one match) | partij |  |
+| Your turn / Ben's turn | Jij bent aan de beurt / Ben is aan de beurt | Chess says "aan zet" (a chess word) |
+| hit / miss / sunk (Battleships) | raak / mis / gezonken |  |
+| Carrier / Battleship / Cruiser / Submarine / Destroyer | Vliegdekschip / Slagschip / Kruiser / Onderzeeër / Torpedobootjager |  |
+| Lock in fleet | Vloot vastleggen | Seals the fleet at the start |
+| Resign | Opgeven |  |
+| Rematch | Revanche |  |
+| void (a game) | ongeldig | Neutral: never "vals spelen" |
+
 ## Website
 
 | English                          | Nederlands          |

@@ -103,3 +103,20 @@ under "Open" are still undecided.
 | Sends invites and moves to other households (permission) | Envía invitaciones y jugadas a otros hogares |  |
 | It can never … | Nunca puede … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Activar / Desactivar | Everything saved in it is kept |
+
+## Juegos
+
+The games among the Apps. Game names are ordinary words, so each language uses its own generic name (decided 2026-10-30).
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Chess (the app) | Ajedrez | An ordinary word, so translated (unlike Apps names in GUIDE) |
+| Battleships (the app) | Hundir la flota | The generic name of the paper game. Never "Battleship" |
+| game (one match) | partida |  |
+| Your turn / Ben's turn | Te toca / Le toca a Ben |  |
+| hit / miss / sunk (Battleships) | tocado / agua / hundido |  |
+| Carrier / Battleship / Cruiser / Submarine / Destroyer | Portaaviones / Acorazado / Crucero / Submarino / Destructor |  |
+| Lock in fleet | Fijar la flota | Seals the fleet at the start |
+| Resign | Rendirse |  |
+| Rematch | Revancha |  |
+| void (a game) | anulada | Neutral: never "trampa" |

@@ -116,6 +116,23 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | It can never … | Es kann nie … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Einschalten / Ausschalten | Everything saved in it is kept |
 
+## Spiele
+
+The games among the Apps. Game names are ordinary words, so each language uses its own generic name (decided 2026-10-30).
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Chess (the app) | Schach | An ordinary word, so translated (unlike Apps names in GUIDE) |
+| Battleships (the app) | Schiffe versenken | The generic name of the paper game. Compounds: Schiffe-versenken-Partie. Never „Battleship“ |
+| game (one match) | Partie | Not „Match“ |
+| Your turn / Ben's turn | Du bist dran / Ben ist dran |  |
+| hit / miss / sunk (Battleships) | Treffer / Wasser / versenkt | Classic call-outs: „Treffer“, „Wasser“, „versenkt“ |
+| Carrier / Battleship / Cruiser / Submarine / Destroyer | Flugzeugträger / Schlachtschiff / Kreuzer / U-Boot / Zerstörer |  |
+| Lock in fleet | Flotte festlegen | Seals the fleet at the start |
+| Resign | Aufgeben |  |
+| Rematch | Revanche |  |
+| void (a game) | ungültig | Neutral: never „Betrug“ |
+
 ## Website
 
 | English                          | Deutsch             |

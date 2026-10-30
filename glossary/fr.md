@@ -122,3 +122,20 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Home Assistant app (was: add-on) | la Home Assistant App ; en prose : l'app Social Home |
 | Social Home (Early)              | Social Home (Early)                                  |
 | Social Home viewer               | la visionneuse Social Home                           |
+
+## Jeux
+
+The games among the Apps. Game names are ordinary words, so each language uses its own generic name (decided 2026-10-30).
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Chess (the app) | Échecs | An ordinary word, so translated (unlike Apps names in GUIDE) |
+| Battleships (the app) | Bataille navale | The generic name of the paper game. Never « Battleship » |
+| game (one match) | partie |  |
+| Your turn / Ben's turn | À vous de jouer / Au tour de Ben |  |
+| hit / miss / sunk (Battleships) | touché / à l’eau / coulé |  |
+| Carrier / Battleship / Cruiser / Submarine / Destroyer | Porte-avions / Cuirassé / Croiseur / Sous-marin / Torpilleur |  |
+| Lock in fleet | Valider la flotte | Seals the fleet at the start |
+| Resign | Abandonner |  |
+| Rematch | Revanche |  |
+| void (a game) | annulée | Neutral: never « triche » |
