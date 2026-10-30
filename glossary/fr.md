@@ -63,6 +63,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Ask the seller (button)              | **Demander au vendeur** | The private chat about one listing |
 | Questions and answers (a listing's FAQ) | **Questions et réponses** | The seller's public questions with answers on an annonce. Section title; not « Foire aux questions » |
 | Add to FAQ (button)                  | **Ajouter à la FAQ** | Under a buyer's message in the « Demander au vendeur » chat; "FAQ" only on this short button |
+| Private conversations (seller, on a listing) | **Conversations privées** | Heading over the seller's « Demander au vendeur » chats about one annonce. Never « Questions » : that would clash with « Questions et réponses » right next to it |
 | Map                                  | Carte           |                                                                   |
 | Timetable                            | Emploi du temps |                                                                   |
 | Presence                             | Présence        |                                                                   |

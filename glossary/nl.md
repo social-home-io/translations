@@ -63,6 +63,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Ask the seller (button)              | **Vraag de verkoper** | The private chat about one listing |
 | Questions and answers (a listing's FAQ) | **Vragen en antwoorden** | The seller's public questions with answers on an advertentie. Section title; not "Veelgestelde vragen" |
 | Add to FAQ (button)                  | **Aan FAQ toevoegen** | Under a buyer's message in the "Vraag de verkoper" chat; "FAQ" only on this short button |
+| Private conversations (seller, on a listing) | **Privégesprekken** | Heading over the seller's "Vraag de verkoper" chats about one advertentie. Never "Vragen": that would clash with "Vragen en antwoorden" right next to it |
 | Map                                  | Kaart        |                                                                       |
 | Timetable                            | Rooster      |                                                                       |
 | Presence                             | Aanwezigheid |                                                                       |
