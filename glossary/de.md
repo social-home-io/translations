@@ -123,7 +123,7 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 | English | Deutsch | Notes |
 | --- | --- | --- |
 | Chess (the app) | Schach | An ordinary word, so translated (unlike Apps names in GUIDE) |
-| Battleships (the app) | Schiffe versenken | The generic name of the paper game. Compounds: Schiffe-versenken-Partie. Never „Battleship“ |
+| Battleships (the app) | Schiffe versenken | The generic name of the paper game. No compound with the name: „eine Partie Schiffe versenken“, „eure Partie {app}“ (never „Schiffe-versenken-Partie“, which breaks when the app name is a placeholder). Never „Battleship“ |
 | game (one match) | Partie | Not „Match“ |
 | Your turn / Ben's turn | Du bist dran / Ben ist dran |  |
 | hit / miss / sunk (Battleships) | Treffer / Wasser / versenkt | Classic call-outs: „Treffer“, „Wasser“, „versenkt“ |
