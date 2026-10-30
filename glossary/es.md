@@ -52,6 +52,8 @@ under "Open" are still undecided.
 | Gallery                              | Galería    |                                    |
 | Stickies                             | Stickies   | Name, not translated. Not "Notas"  |
 | Bazaar                               | Bazar      |                                    |
+| listing (Bazaar)                     | **anuncio** | "tu anuncio" |
+| Ask the seller (button)              | **Preguntar al vendedor** | The private chat about one listing |
 | Timetable                            | Horario    |                                    |
 | Presence                             | Presencia  |                                    |
 | Corner                               | Mi rincón  |                                    |
