@@ -61,6 +61,8 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Bazaar                               | **Bazar**       | Not "Place de marché" (decided 2026-10-20)                        |
 | listing (Bazaar)                     | **annonce**     | "votre annonce" |
 | Ask the seller (button)              | **Demander au vendeur** | The private chat about one listing |
+| Questions and answers (a listing's FAQ) | **Questions et réponses** | The seller's public questions with answers on an annonce. Section title; not « Foire aux questions » |
+| Add to FAQ (button)                  | **Ajouter à la FAQ** | Under a buyer's message in the « Demander au vendeur » chat; "FAQ" only on this short button |
 | Map                                  | Carte           |                                                                   |
 | Timetable                            | Emploi du temps |                                                                   |
 | Presence                             | Présence        |                                                                   |

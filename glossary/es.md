@@ -54,6 +54,8 @@ under "Open" are still undecided.
 | Bazaar                               | Bazar      |                                    |
 | listing (Bazaar)                     | **anuncio** | "tu anuncio" |
 | Ask the seller (button)              | **Preguntar al vendedor** | The private chat about one listing |
+| Questions and answers (a listing's FAQ) | **Preguntas y respuestas** | The seller's public questions with answers on an anuncio. Section title; not "Preguntas frecuentes" |
+| Add to FAQ (button)                  | **Añadir a las FAQ** | Under a buyer's message in the "Preguntar al vendedor" chat; "FAQ" only on this short button |
 | Timetable                            | Horario    |                                    |
 | Presence                             | Presencia  |                                    |
 | Corner                               | Mi rincón  |                                    |

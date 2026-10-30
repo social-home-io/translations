@@ -63,6 +63,8 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Bazaar                               | **Basar**     | Not "Marktplatz" (decided 2026-10-20)                                   |
 | listing (Bazaar)                     | **Anzeige**   | Not "Angebot" (that is an offer). "deine Anzeige" |
 | Ask the seller (button)              | **Verkäufer fragen** | The private chat about one listing |
+| Questions and answers (a listing's FAQ) | **Fragen und Antworten** | The seller's public questions with answers on a listing. Section title; not "Häufige Fragen" |
+| Add to FAQ (button)                  | **Zu FAQ hinzufügen** | Under a buyer's message in the "Verkäufer fragen" chat; "FAQ" only on this short button |
 | Map                                  | Karte         |                                                                         |
 | Timetable                            | Stundenplan   |                                                                         |
 | Presence                             | Anwesenheit   |                                                                         |
