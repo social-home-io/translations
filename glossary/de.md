@@ -61,6 +61,8 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Gallery                              | Galerie       |                                                                         |
 | Stickies                             | **Stickies**  | Name, not translated (decided 2026-10-20). Not "Haftnotizen", "Notizen" |
 | Bazaar                               | **Basar**     | Not "Marktplatz" (decided 2026-10-20)                                   |
+| listing (Bazaar)                     | **Anzeige**   | Not "Angebot" (that is an offer). "deine Anzeige" |
+| Ask the seller (button)              | **Verkäufer fragen** | The private chat about one listing |
 | Map                                  | Karte         |                                                                         |
 | Timetable                            | Stundenplan   |                                                                         |
 | Presence                             | Anwesenheit   |                                                                         |

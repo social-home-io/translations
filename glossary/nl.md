@@ -59,6 +59,8 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Gallery                              | Galerij      |                                                                       |
 | Stickies                             | **Stickies** | Name, not translated (decided 2026-10-20). Not "Notities", "Sticky's" |
 | Bazaar                               | **Bazaar**   | Not "Marktplaats" (decided 2026-10-20)                                |
+| listing (Bazaar)                     | **advertentie** | "je advertentie" |
+| Ask the seller (button)              | **Vraag de verkoper** | The private chat about one listing |
 | Map                                  | Kaart        |                                                                       |
 | Timetable                            | Rooster      |                                                                       |
 | Presence                             | Aanwezigheid |                                                                       |

@@ -59,6 +59,8 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | Gallery                              | Galerie         |                                                                   |
 | Stickies                             | **Stickies**    | Name, not translated (decided 2026-10-20). Not "Notes", "Post-it" |
 | Bazaar                               | **Bazar**       | Not "Place de marché" (decided 2026-10-20)                        |
+| listing (Bazaar)                     | **annonce**     | "votre annonce" |
+| Ask the seller (button)              | **Demander au vendeur** | The private chat about one listing |
 | Map                                  | Carte           |                                                                   |
 | Timetable                            | Emploi du temps |                                                                   |
 | Presence                             | Présence        |                                                                   |
