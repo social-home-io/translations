@@ -65,6 +65,7 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | Ask the seller (button)              | **Verkäufer fragen** | The private chat about one listing |
 | Questions and answers (a listing's FAQ) | **Fragen und Antworten** | The seller's public questions with answers on a listing. Section title; not "Häufige Fragen" |
 | Add to FAQ (button)                  | **Zu FAQ hinzufügen** | Under a buyer's message in the "Verkäufer fragen" chat; "FAQ" only on this short button |
+| Private conversations (seller, on a listing) | **Private Gespräche** | Heading over the seller's "Verkäufer fragen" chats about one Anzeige. Never "Fragen": that would clash with "Fragen und Antworten" right next to it |
 | Map                                  | Karte         |                                                                         |
 | Timetable                            | Stundenplan   |                                                                         |
 | Presence                             | Anwesenheit   |                                                                         |

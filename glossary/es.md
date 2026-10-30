@@ -56,6 +56,7 @@ under "Open" are still undecided.
 | Ask the seller (button)              | **Preguntar al vendedor** | The private chat about one listing |
 | Questions and answers (a listing's FAQ) | **Preguntas y respuestas** | The seller's public questions with answers on an anuncio. Section title; not "Preguntas frecuentes" |
 | Add to FAQ (button)                  | **Añadir a las FAQ** | Under a buyer's message in the "Preguntar al vendedor" chat; "FAQ" only on this short button |
+| Private conversations (seller, on a listing) | **Conversaciones privadas** | Heading over the seller's "Preguntar al vendedor" chats about one anuncio. Never "Preguntas": that would clash with "Preguntas y respuestas" right next to it |
 | Timetable                            | Horario    |                                    |
 | Presence                             | Presencia  |                                    |
 | Corner                               | Mi rincón  |                                    |
