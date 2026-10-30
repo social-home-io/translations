@@ -61,6 +61,8 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | Bazaar                               | **Bazaar**   | Not "Marktplaats" (decided 2026-10-20)                                |
 | listing (Bazaar)                     | **advertentie** | "je advertentie" |
 | Ask the seller (button)              | **Vraag de verkoper** | The private chat about one listing |
+| Questions and answers (a listing's FAQ) | **Vragen en antwoorden** | The seller's public questions with answers on an advertentie. Section title; not "Veelgestelde vragen" |
+| Add to FAQ (button)                  | **Aan FAQ toevoegen** | Under a buyer's message in the "Vraag de verkoper" chat; "FAQ" only on this short button |
 | Map                                  | Kaart        |                                                                       |
 | Timetable                            | Rooster      |                                                                       |
 | Presence                             | Aanwezigheid |                                                                       |
