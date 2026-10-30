@@ -133,6 +133,25 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 | Rematch | Revanche |  |
 | void (a game) | ungültig | Neutral: never „Betrug“ |
 
+## Chess
+
+Chess terms in the Chess app (socialhome-apps). Use the standard chess word of the language.
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| resign / Resign | aufgeben / Aufgeben | Means resigning in chess: the opponent is told and wins. Never for removing a game (that is "Entfernen") |
+| draw / Offer draw / Accept draw | Remis / Remis anbieten / Remis annehmen | Never "Unentschieden" in chess UI |
+| Draw by repetition | Remis durch Stellungswiederholung |  |
+| 50-move rule | 50-Züge-Regel |  |
+| stalemate | Patt |  |
+| checkmate / check | Schachmatt / Schach |  |
+| castling (kingside / queenside) | Rochade (kurze / lange Rochade) |  |
+| en passant | en passant |  |
+| promotion (promote your pawn) | Umwandlung (Bauer umwandeln) |  |
+| queen / rook / bishop / knight / king / pawn | Dame / Turm / Läufer / Springer / König / Bauer |  |
+| White / Black (sides) | Weiß / Schwarz |  |
+| PGN | PGN | Portable Game Notation, never translated |
+
 ## Website
 
 | English                          | Deutsch             |

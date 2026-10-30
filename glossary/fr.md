@@ -114,6 +114,27 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | It can never … | Elle ne peut jamais … | The fixed list of what no app can do |
 | Turn on / Turn off (an app) | Activer / Désactiver | Everything saved in it is kept |
 
+## Chess
+
+Chess terms in the Chess app (socialhome-apps). Use the standard chess word of the language.
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Chess (the app) | Échecs | The app's name (manifest) |
+| resign / Resign | abandonner / Abandonner | Means resigning in chess: the opponent is told and wins. Removing a game is "Retirer" |
+| draw / Offer draw / Accept draw | nulle / Proposer la nulle / Accepter la nulle | "nulle" (la partie est nulle), not "match nul" |
+| Draw by repetition | Nulle par répétition |  |
+| 50-move rule | règle des 50 coups |  |
+| stalemate | pat |  |
+| checkmate / check | échec et mat / échec |  |
+| castling (kingside / queenside) | roque (petit roque / grand roque) |  |
+| en passant | prise en passant |  |
+| promotion (promote your pawn) | promotion (promouvoir votre pion) |  |
+| queen / rook / bishop / knight / king / pawn | dame / tour / fou / cavalier / roi / pion |  |
+| White / Black (sides) | Blancs / Noirs |  |
+| Rematch | Revanche |  |
+| PGN | PGN | Portable Game Notation, never translated |
+
 ## Site web
 
 | English                          | Français                                             |
@@ -129,7 +150,6 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 
 | English | Français | Notes |
 | --- | --- | --- |
-| Chess (the app) | Échecs | An ordinary word, so translated (unlike Apps names in GUIDE) |
 | Battleships (the app) | Bataille navale | The generic name of the paper game. Never « Battleship » |
 | game (one match) | partie |  |
 | Your turn / Ben's turn | À vous de jouer / Au tour de Ben |  |
@@ -137,5 +157,4 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 | Carrier / Battleship / Cruiser / Submarine / Destroyer | Porte-avions / Cuirassé / Croiseur / Sous-marin / Torpilleur |  |
 | Lock in fleet | Valider la flotte | Seals the fleet at the start |
 | Resign | Abandonner |  |
-| Rematch | Revanche |  |
 | void (a game) | annulée | Neutral: never « triche » |

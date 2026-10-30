@@ -120,3 +120,22 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 | Resign | Rendirse |  |
 | Rematch | Revancha |  |
 | void (a game) | anulada | Neutral: never "trampa" |
+
+## Chess
+
+Chess terms in the Chess app (socialhome-apps). Use the standard chess word of the language.
+
+| English | Español | Notes |
+| --- | --- | --- |
+| resign / Resign | abandonar / Abandonar | Means resigning in chess: the opponent is told and wins. Removing a game is "Quitar" |
+| draw / Offer draw / Accept draw | tablas / Ofrecer tablas / Aceptar tablas | Never "empate" in chess UI |
+| Draw by repetition | Tablas por repetición |  |
+| 50-move rule | regla de los 50 movimientos |  |
+| stalemate | ahogado |  |
+| checkmate / check | jaque mate / jaque |  |
+| castling (kingside / queenside) | enroque (enroque corto / largo) |  |
+| en passant | al paso (captura al paso) |  |
+| promotion (promote your pawn) | coronación (coronar tu peón) |  |
+| queen / rook / bishop / knight / king / pawn | dama / torre / alfil / caballo / rey / peón |  |
+| White / Black (sides) | Blancas / Negras |  |
+| PGN | PGN | Portable Game Notation, never translated |
