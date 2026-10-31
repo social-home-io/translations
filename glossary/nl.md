@@ -179,6 +179,27 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | Claim the win | Winst opeisen | Button; „Winst opgeëist“ |
 | wins on time | wint op tijd | „Zwart wint op tijd“ |
 
+## Backgammon
+
+Backgammon terms in the Backgammon app (socialhome-apps). Use the established backgammon word of the language.
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Backgammon (the app) | Backgammon | A name in every language ("backgammon" in running text) |
+| checker / White / Black | steen / Wit / Zwart | "Je steen is geslagen" |
+| point (1–24) | punt | "punt 13" |
+| bar | bar | "Je steen staat op de bar" |
+| home board | thuisbord | "in het thuisbord van Ben" |
+| hit (a checker) | slaan | "Ben heeft een steen van je geslagen" |
+| bear off / borne off | uitspelen / uitgespeeld | "3 uitgespeeld" |
+| roll / Roll (button) | worp / Gooien | "Je gooide 6 en 4" |
+| opening roll | openingsworp |  |
+| doubling cube | verdubbelingskubus | "kubus" alone only after it was named |
+| double / accept / decline | verdubbelen / aannemen / weigeren | "Verdubbelen naar 4" |
+| gammon / backgammon (a win) | gammon / backgammon | Never translated |
+| pips (pip count) | pips | "Pips: jij 142, Ben 155" |
+| Fair dice | Eerlijke dobbelstenen | No crypto words |
+
 ## Website
 
 | English                          | Nederlands          |

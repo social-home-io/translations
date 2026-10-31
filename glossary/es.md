@@ -169,3 +169,23 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | Claim the win | Reclamar la victoria | Button; «Victoria reclamada» |
 | wins on time | gana por tiempo | «Gana Negro por tiempo» |
 
+## Backgammon
+
+Backgammon terms in the Backgammon app (socialhome-apps). Use the established backgammon word of the language.
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Backgammon (the app) | Backgammon | A name in every language ("el backgammon" in running text) |
+| checker / White / Black | ficha / Blanco / Negro | "Golpearon tu ficha" |
+| point (1–24) | punto | "punto 13" |
+| bar | barra | "Tu ficha está en la barra" |
+| home board | cuadrante interior | "en el cuadrante interior de Ben" |
+| hit (a checker) | golpear | "Ben golpeó una de tus fichas"; not "comer" in the UI |
+| bear off / borne off | sacar / sacadas | "3 sacadas" |
+| roll / Roll (button) | tirada / Tirar | "Sacaste 6 y 4" |
+| opening roll | tirada inicial |  |
+| doubling cube | cubo de doblaje | "cubo" alone only after it was named |
+| double / accept / decline | doblar / aceptar / rechazar | "Doblar a 4" |
+| gammon / backgammon (a win) | gammon / backgammon | Never translated |
+| pips (pip count) | pips | "Pips: tú 142, Ben 155" |
+| Fair dice | Dados justos | No crypto words |
