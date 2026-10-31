@@ -208,3 +208,43 @@ The games among the Apps. Game names are ordinary words, so each language uses i
 | Lock in fleet | Valider la flotte | Seals the fleet at the start |
 | Resign | Abandonner |  |
 | void (a game) | annulée | Neutral: never « triche » |
+
+## Jouer ensemble
+
+Group play (socialhome group-play plan, 2026-10-31): a game opened in a space, or for people you pick, that several people join; the person who opened it presses Start. The design calls it a *table*; the UI never says table, lobby or host.
+
+| English | Français | Notes |
+| --- | --- | --- |
+| a game opened for others (design: "table"); Start a game | partie / Lancer une partie | Same word as one match; also covers the gift draw (« Anna a lancé un Père Noël secret »). Never « table », « salon », « lobby » |
+| Open games (strip on top of a space's Feed) / All games (4) | Parties ouvertes / Toutes les parties (4) | Games still taking people |
+| Games (space section, space settings) | Jeux |  |
+| Games allowed here (space settings) | Jeux autorisés ici | The space's list of apps people can start there |
+| Join (a game, a gift draw) / 9 joined | Participer / 9 participants | **Not « Rejoindre »**: that is joining a space |
+| seat / free seat / 6 more free seats | place / place libre / encore 6 places libres |  |
+| anyone can take the seat (two-player game) | tout le monde peut prendre la place | The button stays « Jouer » (see Play) |
+| Start / Start with 4 people (button: play begins) | Commencer / Commencer à 4 | « Lancer » opens a game, « Commencer » starts play; after it nobody else can join |
+| Started this game (the host: the person who opened it) | A lancé la partie | « Vous avez lancé cette partie ». **Never « hôte », « organisateur »**: « host » is the space's host household elsewhere |
+| Let everyone know (option when opening) | Prévenir tout le monde | One in-app message per member, no push |
+| Close this game | Fermer la partie | The person who started it, moderators, admins |
+| Waiting for 1 more player | En attente d’une personne de plus |  |
+
+## Gift draw
+
+The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home itself draws the names and shows the result. Names approved by the owner (2026-10-31). Never « Secret Santa ».
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Gift draw (the app, one draw) / New gift draw | **Père Noël secret** / Nouveau Père Noël secret | le Père Noël secret: « un Père Noël secret », « Père Noël secret 2026 » |
+| wish list / Update my wish list | liste de souhaits / Modifier ma liste de souhaits | « la liste de souhaits de Ben » |
+| budget | budget | Free text: « environ 20 € » |
+| Exchange day (when presents are given) | Jour de l’échange | Label before the date: « Échange : jeudi 24 décembre » |
+| Draw names (button) / draw (verb) | Tirer au sort / tirer au sort |  |
+| draw (noun) / Drawing names … / 2nd draw | tirage / Tirage en cours… / 2e tirage | **Never « nulle »**: that is a game result (Chess). The gift-draw words never stand for a game result, and the other way round |
+| Your name is ready | Votre tirage est prêt | The person you drew is waiting for you |
+| You're giving a gift to Ben / you're now giving to Cleo | Vous offrez un cadeau à Ben / vous offrez maintenant un cadeau à Cleo |  |
+| See who you're giving to | Voir à qui vous offrez un cadeau |  |
+| Only you can see this. Ben won't know it's you. | Personne d’autre ne voit ceci. Ben ne saura pas que c’est vous. | No « seul(e) »: avoids the gender. Say only what holds: nobody, not even the person who started the draw, sees the whole list |
+| Who shouldn't draw each other? (optional) | Qui ne doit pas tomber l’un sur l’autre ? | For couples |
+| pair (two people who don't draw each other) / Add a pair | paire / Ajouter une paire | **Never « jumeler », « jumelé »**: that is pairing households |
+| Draw again (after the reveal) / Everyone gets a new name | Refaire le tirage / Chacun reçoit un nouveau nom |  |
+| Draw without them / Keep waiting (a home stays offline) | Tirer au sort sans eux / Continuer d’attendre |  |

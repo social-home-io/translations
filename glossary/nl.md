@@ -200,6 +200,46 @@ Backgammon terms in the Backgammon app (socialhome-apps). Use the established ba
 | pips (pip count) | pips | "Pips: jij 142, Ben 155" |
 | Fair dice | Eerlijke dobbelstenen | No crypto words |
 
+## Samen spelen
+
+Group play (socialhome group-play plan, 2026-10-31): a game opened in a space, or for people you pick, that several people join; the person who opened it presses Start. The design calls it a *table*; the UI never says table, lobby or host.
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| a game opened for others (design: "table"); Start a game | spel / Spel starten | pl. spellen. Also covers the gift draw, so not "partij": partij stays one match inside a game app (Chess). Never "tafel", "lobby" |
+| Open games (strip on top of a space's Feed) / All games (4) | Open spellen / Alle spellen (4) | Games still taking people |
+| Games (space section, space settings) | Spellen |  |
+| Games allowed here (space settings) | Toegestane spellen | The space's list of apps people can start there |
+| Join (a game, a gift draw) / 9 joined | Meedoen / 9 doen mee | **Not "lid worden"**: that is joining a space |
+| seat / free seat / 6 more free seats | plek / vrije plek / nog 6 vrije plekken | Never "stoel", "zetel" |
+| anyone can take the seat (two-player game) | iedereen kan de plek innemen | The button stays "Spelen" (see Play) |
+| Start / Start with 4 people (button: play begins) | Starten / Starten met 4 mensen | After it nobody else can join. "Je kunt nu starten." |
+| Started this game (the host: the person who opened it) | Heeft het spel gestart | "Jij hebt dit spel gestart". **Never "host", "gastheer", "organisator"**: "host" is the space's host household elsewhere |
+| Let everyone know (option when opening) | Iedereen laten weten | One in-app message per member, no push |
+| Close this game | Spel sluiten | The person who started it, moderators, beheerders |
+| Waiting for 1 more player | Wacht op nog 1 persoon |  |
+
+## Gift draw
+
+The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home itself draws the names and shows the result. Names approved by the owner (2026-10-31). Never "Secret Santa".
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Gift draw (the app) / one draw / New gift draw | **Lootjes trekken** / trekking / Nieuwe trekking | Capital L only as the name or at the start of a label; in running text "het lootjes trekken" |
+| wish list / Update my wish list | verlanglijstje / Verlanglijstje aanpassen | "Bens verlanglijstje" |
+| budget | budget | Free text: "ongeveer € 20" |
+| Exchange day (when presents are given) | Cadeaudag | Not "pakjesavond" (Sinterklaas only) |
+| Draw names (button) / draw (verb) | Lootjes trekken / trekken | "Wie heeft wie getrokken?" |
+| draw (noun) / Drawing names … / 2nd draw | trekking / Lootjes worden getrokken … / 2e trekking | **Never "remise"**: that is a game result (Chess). The gift-draw words never stand for a game result, and the other way round |
+| Your name is ready | Je lootje is er | The person you drew is waiting for you |
+| You're giving a gift to Ben / you're now giving to Cleo | Je geeft een cadeau aan Ben / je geeft nu een cadeau aan Cleo |  |
+| See who you're giving to | Bekijk wie je hebt getrokken |  |
+| Only you can see this. Ben won't know it's you. | Alleen jij ziet dit. Ben weet niet dat jij het bent. | Say only what holds: nobody, not even the person who started the draw, sees the whole list |
+| Who shouldn't draw each other? (optional) | Wie mogen elkaar niet trekken? | For couples |
+| pair (two people who don't draw each other) / Add a pair | paar / Paar toevoegen | **Never "koppelen", "koppeling"**: that is pairing households |
+| Draw again (after the reveal) / Everyone gets a new name | Opnieuw trekken / Iedereen krijgt een nieuw lootje |  |
+| Draw without them / Keep waiting (a home stays offline) | Zonder hen trekken / Blijven wachten |  |
+
 ## Website
 
 | English                          | Nederlands          |

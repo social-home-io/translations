@@ -202,6 +202,46 @@ Backgammon terms in the Backgammon app (socialhome-apps). Use the established ba
 | pips (pip count) | Pips | „Pips: du 142, Ben 155“ |
 | Fair dice | Faire Würfel | The note on how neither app can choose a roll; no crypto words |
 
+## Gemeinsam spielen
+
+Group play (socialhome group-play plan, 2026-10-31): a game opened in a space, or for people you pick, that several people join; the person who opened it presses Start. The design calls it a *table*; the UI never says table, lobby or host.
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| a game opened for others (design: "table"); Start a game | Spiel / Spiel starten | pl. Spiele. Also covers the gift draw, so not „Partie“: Partie stays one match inside a game app (Chess). Never „Tisch“, „Lobby“ |
+| Open games (strip on top of a space's Feed) / All games (4) | Offene Spiele / Alle Spiele (4) | Games still taking people |
+| Games (space section, space settings) | Spiele |  |
+| Games allowed here (space settings) | Erlaubte Spiele | The space's list of apps people can start there |
+| Join (a game, a gift draw) / 9 joined | Mitmachen / 9 machen mit | **Not „Beitreten“**: that is joining a space. „Mitmachen“ fits games and Wichteln alike |
+| seat / free seat / 6 more free seats | Platz / freier Platz / noch 6 freie Plätze | Never „Sitz“ |
+| anyone can take the seat (two-player game) | jeder kann den Platz nehmen | The button stays „Spielen“ (see Play) |
+| Start / Start with 4 people (button: play begins) | Starten / Mit 4 Personen starten | After it nobody else can join. „Du kannst jetzt starten.“ |
+| Started this game (the host: the person who opened it) | Hat das Spiel gestartet | „Du hast dieses Spiel gestartet“, „Anna, die das Wichteln gestartet hat“. **Never „Host“, „Gastgeber“, „Organisator“**: „host“ is the space's host household elsewhere |
+| Let everyone know (option when opening) | Allen Bescheid sagen | One in-app message per member, no push |
+| Close this game | Spiel schließen | The person who started it, moderators, admins |
+| Waiting for 1 more player | Es fehlt noch 1 Person |  |
+
+## Gift draw
+
+The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home itself draws the names and shows the result. Names approved by the owner (2026-10-31). Never „Secret Santa“.
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Gift draw (the app, one draw) / New gift draw | **Wichteln** / Neues Wichteln | das Wichteln: „ein Wichteln“, „Wichteln 2026“, „Anna hat ein Wichteln gestartet“ |
+| wish list / Update my wish list | Wunschliste / Wunschliste ändern | „Bens Wunschliste“. Not „Wunschzettel“ (the children's letter) |
+| budget | Budget | Free text: „etwa 20 €“ |
+| Exchange day (when presents are given) | Bescherung | Label before the date: „Bescherung: Do., 24. Dezember“ |
+| Draw names (button) / draw (verb) | Namen ziehen / ziehen | „Wer hat wen gezogen?“ |
+| draw (noun) / Drawing names … / 2nd draw | Auslosung / Namen werden gezogen … / 2. Auslosung | **Never „Remis“ or „Unentschieden“**: those are a game result (Chess). The gift-draw words never stand for a game result, and the other way round |
+| Your name is ready | Dein Los ist da | The person you drew is waiting for you |
+| You're giving a gift to Ben / you're now giving to Cleo | Du beschenkst Ben / du beschenkst jetzt Cleo |  |
+| See who you're giving to | Sieh nach, wen du beschenkst |  |
+| Only you can see this. Ben won't know it's you. | Nur du siehst das. Ben erfährt nicht, dass du es bist. | Say only what holds: nobody, not even the person who started the draw, sees the whole list |
+| Who shouldn't draw each other? (optional) | Wer soll sich nicht gegenseitig ziehen? | For couples |
+| pair (two people who don't draw each other) / Add a pair | Paar / Paar hinzufügen | **Never „koppeln“, „Kopplung“**: that is pairing households |
+| Draw again (after the reveal) / Everyone gets a new name | Neu auslosen / Alle bekommen einen neuen Namen |  |
+| Draw without them / Keep waiting (a home stays offline) | Ohne sie auslosen / Weiter warten |  |
+
 ## Website
 
 | English                          | Deutsch             |
