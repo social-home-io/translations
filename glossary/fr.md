@@ -157,6 +157,12 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | star point (hoshi) | hoshi |  |
 | board size 9 × 9 | goban 9 × 9 | « goban » is the usual French word for the board |
 | Black wins by 3.5 | Noir gagne de 3,5 points | Decimal comma, no-break space before : ; ! ? |
+| handicap / handicap stones | handicap / pierres de handicap | « Noir reçoit 4 pierres de handicap » |
+| clock (time per move) | pendule | « Sans pendule — jouez à votre rythme » |
+| days per move | jours par coup | « 2 jours par coup » |
+| time ran out | temps écoulé | « Le temps de Ben est écoulé » |
+| Claim the win | Réclamer la victoire | Button; « Victoire réclamée » |
+| wins on time | gagne au temps | « Noir gagne au temps » |
 
 ## Site web
 

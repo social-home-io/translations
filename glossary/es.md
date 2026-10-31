@@ -162,4 +162,10 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | star point (hoshi) | hoshi |  |
 | board size 9 × 9 | tablero 9 × 9 |  |
 | Black wins by 3.5 | Gana Negro por 3,5 puntos | Decimal comma |
+| handicap / handicap stones | hándicap / piedras de hándicap | «Negro recibe 4 piedras de hándicap» |
+| clock (time per move) | reloj | «Sin reloj: juega a tu ritmo» |
+| days per move | días por jugada | «2 días por jugada» |
+| time ran out | se acabó el tiempo | «A Ben se le acabó el tiempo» |
+| Claim the win | Reclamar la victoria | Button; «Victoria reclamada» |
+| wins on time | gana por tiempo | «Gana Negro por tiempo» |
 

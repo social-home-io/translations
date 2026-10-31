@@ -172,6 +172,12 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | star point (hoshi) | sterpunt |  |
 | board size 9 × 9 | bord 9 × 9 |  |
 | Black wins by 3.5 | Zwart wint met 3,5 punt | Decimal comma |
+| handicap / handicap stones | voorgift / voorgiftstenen | „Zwart krijgt 4 voorgiftstenen“ |
+| clock (time per move) | klok | „Geen klok — speel in je eigen tempo“ |
+| days per move | dagen per zet | „2 dagen per zet“ |
+| time ran out | tijd is op | „De tijd van Ben is op“ |
+| Claim the win | Winst opeisen | Button; „Winst opgeëist“ |
+| wins on time | wint op tijd | „Zwart wint op tijd“ |
 
 ## Website
 

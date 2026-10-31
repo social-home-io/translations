@@ -174,6 +174,12 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | star point (hoshi) | Sternpunkt |  |
 | board size 9 × 9 | Brett 9 × 9 | Multiplication sign with spaces |
 | Black wins by 3.5 | Schwarz gewinnt mit 3,5 Punkten | Decimal comma |
+| handicap / handicap stones | Vorgabe / Vorgabesteine | „Schwarz bekommt 4 Vorgabesteine“; not „Handicap“ |
+| clock (time per move) | Uhr | „Keine Uhr – spiel in deinem Tempo“; not „Schachuhr“ |
+| days per move | Tage pro Zug | „2 Tage pro Zug“ |
+| time ran out | Zeit abgelaufen | „Die Zeit von Ben ist abgelaufen“ |
+| Claim the win | Sieg einfordern | Button; „Sieg eingefordert“ |
+| wins on time | gewinnt auf Zeit | „Schwarz gewinnt auf Zeit“ |
 
 ## Website
 
