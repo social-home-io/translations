@@ -89,12 +89,13 @@ under "Open" are still undecided.
 | English | Español | Notes |
 | --- | --- | --- |
 | Apps (the page, a section) | Apps | Name, never translated |
-| Add to household (an app) | Añadir al hogar | An admin adds an app for everyone: the consent dialog and its button. The Store card button is "Install" (below) |
+| Added by Anna / Anna added {app} (an app) | Añadida por Anna / Anna añadió {app} | Who brought the app into the household: the line on Your apps and the notification. Stays "add": it records who did it, while the admin's action is "Install" (below) |
 | More apps | Más apps | The short list of apps to add, on Your apps |
 | Your apps (the Apps tab) | Tus apps | The household's apps, one of the two Apps tabs |
 | Store (the Apps tab) | Store | Every app the household can add. Kept as "Store" in every language (owner decision 2026-10-31) |
-| Install (a Store card) | Instalar | An admin's button on a Store card; it opens the "Add to household" consent (owner decision 2026-10-31) |
+| Install (an app) / Install {app} for everyone? / Not installed yet | Instalar / ¿Instalar {app} para todo el hogar? / Aún no se ha instalado | The admin's action everywhere: the Store card button, an app's page, the consent dialog (title and button) and the toast after it; "Only admins can install apps". Was "Add to household" for the dialog (owner request 2026-10-31: the dialog says what the button said) |
 | Installed (a Store card) | Instalada | The household has the app |
+| 1 game going / 2 games going (an app on Your apps) | 1 partida en curso / 2 partidas en curso | On Your apps, after "Added by …": the viewer's own games in that app still going (1:1 games and group games), so it takes the group-play word for a game, not the one-match word. Shown only from 1 |
 | Ask an admin | Pedir a un admin | A member asks for an app |
 | Ask a grown-up | Pedir a un adulto | A protected account (a child) asks its guardians. Warm, everyday word |
 | Asked (an app) | Pedida | The request is waiting |
