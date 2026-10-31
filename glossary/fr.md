@@ -135,6 +135,29 @@ Chess terms in the Chess app (socialhome-apps). Use the standard chess word of t
 | Rematch | Revanche |  |
 | PGN | PGN | Portable Game Notation, never translated |
 
+## Go
+
+Go terms in the Go app (socialhome-apps). Use the established Go word of the language.
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Go (the app) | Go | A name in every language (« le go » in running text); never « Weiqi » or « Baduk » |
+| stone / black stone / white stone | pierre / pierre noire / pierre blanche |  |
+| Black / White (sides) | Noir / Blanc | Singular, as French Go players say: « Noir joue » (Chess says Blancs / Noirs) |
+| capture / captures (count) | capturer / pierres capturées | « Ben a capturé 2 pierres » |
+| pass / Pass | passer / Passer |  |
+| territory | territoire |  |
+| area scoring | décompte chinois (par surface) | Stones on the board plus surrounded points |
+| komi | komi | Points for White |
+| ko / superko | ko / superko | Never translated |
+| suicide (a move) | suicide | Only in the rule text |
+| dead stones / mark dead stones | pierres mortes / marquer les pierres mortes |  |
+| Resume play | Reprendre la partie | Back to play after the counting |
+| resign / Resign | abandonner / Abandonner | As in Chess |
+| star point (hoshi) | hoshi |  |
+| board size 9 × 9 | goban 9 × 9 | « goban » is the usual French word for the board |
+| Black wins by 3.5 | Noir gagne de 3,5 points | Decimal comma, no-break space before : ; ! ? |
+
 ## Site web
 
 | English                          | Français                                             |

@@ -139,3 +139,27 @@ Chess terms in the Chess app (socialhome-apps). Use the standard chess word of t
 | queen / rook / bishop / knight / king / pawn | dama / torre / alfil / caballo / rey / peón |  |
 | White / Black (sides) | Blancas / Negras |  |
 | PGN | PGN | Portable Game Notation, never translated |
+
+## Go
+
+Go terms in the Go app (socialhome-apps). Use the established Go word of the language.
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Go (the app) | Go | A name in every language; never "Weiqi" or "Baduk" in the UI |
+| stone / black stone / white stone | piedra / piedra negra / piedra blanca |  |
+| Black / White (sides) | Negro / Blanco | Singular, as Go players say: "juega Negro" (Chess says Blancas / Negras) |
+| capture / captures (count) | capturar / piedras capturadas | "Ben ha capturado 2 piedras" |
+| pass / Pass | pasar / Pasar |  |
+| territory | territorio |  |
+| area scoring | puntuación por área | Stones on the board plus surrounded points (Chinese rules) |
+| komi | komi | Points for White |
+| ko / superko | ko / superko | Never translated |
+| suicide (a move) | suicidio | Only in the rule text |
+| dead stones / mark dead stones | piedras muertas / marcar las piedras muertas |  |
+| Resume play | Reanudar la partida | Back to play after the counting. Not "Seguir jugando" (the Resign dialog's cancel) |
+| resign / Resign | abandonar / Abandonar | As in Chess |
+| star point (hoshi) | hoshi |  |
+| board size 9 × 9 | tablero 9 × 9 |  |
+| Black wins by 3.5 | Gana Negro por 3,5 puntos | Decimal comma |
+

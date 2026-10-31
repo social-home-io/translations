@@ -152,6 +152,29 @@ Chess terms in the Chess app (socialhome-apps). Use the standard chess word of t
 | White / Black (sides) | Weiß / Schwarz |  |
 | PGN | PGN | Portable Game Notation, never translated |
 
+## Go
+
+Go terms in the Go app (socialhome-apps). Use the established Go word of the language.
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Go (the app) | Go | A name in every language; never „Weiqi“ or „Baduk“ in the UI |
+| stone / black stone / white stone | Stein / schwarzer Stein / weißer Stein |  |
+| Black / White (sides) | Schwarz / Weiß | „Schwarz ist dran“ |
+| capture / captures (count) | schlagen / geschlagene Steine | „Ben hat 2 Steine geschlagen“; never „fangen“ |
+| pass / Pass | passen / Passen |  |
+| territory | Gebiet |  |
+| area scoring | Flächenwertung | Stones on the board plus surrounded points (Chinese rules) |
+| komi | Komi | Points for White |
+| ko / superko | Ko / Superko | Never translated |
+| suicide (a move) | Selbstmord | Only in the rule text: „Selbstmord ist nicht erlaubt“ |
+| dead stones / mark dead stones | tote Steine / tote Steine markieren |  |
+| Resume play | Partie fortsetzen | Back to play after the counting. Not „Weiterspielen“ (that is the Resign dialog's cancel) |
+| resign / Resign | aufgeben / Aufgeben | As in Chess |
+| star point (hoshi) | Sternpunkt |  |
+| board size 9 × 9 | Brett 9 × 9 | Multiplication sign with spaces |
+| Black wins by 3.5 | Schwarz gewinnt mit 3,5 Punkten | Decimal comma |
+
 ## Website
 
 | English                          | Deutsch             |
