@@ -181,6 +181,27 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | Claim the win | Sieg einfordern | Button; „Sieg eingefordert“ |
 | wins on time | gewinnt auf Zeit | „Schwarz gewinnt auf Zeit“ |
 
+## Backgammon
+
+Backgammon terms in the Backgammon app (socialhome-apps). Use the established backgammon word of the language.
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Backgammon (the app) | Backgammon | A name in every language |
+| checker / White / Black | Stein / Weiß / Schwarz | „Dein Stein wurde geschlagen“; the sides as in Go |
+| point (1–24) | Punkt | „Punkt 13“; never „Zunge“ or „Feld“ in the UI |
+| bar | Bar | „Dein Stein ist auf der Bar“ |
+| home board | Heimfeld | „im Heimfeld von Ben“ |
+| hit (a checker) | schlagen | „Ben hat einen Stein von dir geschlagen“ |
+| bear off / borne off | abtragen / abgetragen | „3 abgetragen“; never „rauswürfeln“ |
+| roll / Roll (button) / a double roll | Wurf / Würfeln / Pasch | „Du hast 6 und 4 gewürfelt“, „Pasch 3“ |
+| opening roll | Eröffnungswurf | One die each decides who starts |
+| doubling cube | Dopplerwürfel | Never just „Würfel“ (those are the dice) |
+| double / accept / decline | verdoppeln / annehmen / ablehnen | „Auf 4 verdoppeln“, „Annehmen · um 4 spielen“ |
+| gammon / backgammon (a win) | Gammon / Backgammon | Never translated |
+| pips (pip count) | Pips | „Pips: du 142, Ben 155“ |
+| Fair dice | Faire Würfel | The note on how neither app can choose a roll; no crypto words |
+
 ## Website
 
 | English                          | Deutsch             |

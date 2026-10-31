@@ -164,6 +164,27 @@ Go terms in the Go app (socialhome-apps). Use the established Go word of the lan
 | Claim the win | Réclamer la victoire | Button; « Victoire réclamée » |
 | wins on time | gagne au temps | « Noir gagne au temps » |
 
+## Backgammon
+
+Backgammon terms in the Backgammon app (socialhome-apps). Use the established backgammon word of the language.
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Backgammon (the app) | Backgammon | A name in every language (« le backgammon » in running text) |
+| checker / White / Black | dame / Blanc / Noir | « Votre dame a été frappée » |
+| point (1–24) | flèche | « flèche 13 » in sentences; the board shows the numbers |
+| bar | barre | « Votre dame est sur la barre » |
+| home board | jan intérieur | « dans le jan intérieur de Ben » |
+| hit (a checker) | frapper | « Ben a frappé une de vos dames » |
+| bear off / borne off | sortir / sortie(s) | « 3 sorties » |
+| roll / Roll (button) | lancer / Lancer | « Vous avez fait 6 et 4 » |
+| opening roll | lancer d’ouverture |  |
+| doubling cube | videau | The French backgammon word; never « cube » |
+| double / accept / decline | doubler / accepter / refuser | « Doubler à 4 » |
+| gammon / backgammon (a win) | gammon / backgammon | Never translated (not « partie double ») |
+| pips (pip count) | pips | « Pips : vous 142, Ben 155 » |
+| Fair dice | Dés équitables | No crypto words |
+
 ## Site web
 
 | English                          | Français                                             |
