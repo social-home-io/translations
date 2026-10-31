@@ -189,3 +189,43 @@ Backgammon terms in the Backgammon app (socialhome-apps). Use the established ba
 | gammon / backgammon (a win) | gammon / backgammon | Never translated |
 | pips (pip count) | pips | "Pips: tú 142, Ben 155" |
 | Fair dice | Dados justos | No crypto words |
+
+## Jugar juntos
+
+Group play (socialhome group-play plan, 2026-10-31): a game opened in a space, or for people you pick, that several people join; the person who opened it presses Start. The design calls it a *table*; the UI never says table, lobby or host.
+
+| English | Español | Notes |
+| --- | --- | --- |
+| a game opened for others (design: "table"); Start a game | partida / Crear una partida | Same word as one match; also covers the gift draw. Never "mesa", "sala", "lobby" |
+| Open games (strip on top of a space's Feed) / All games (4) | Partidas abiertas / Todas las partidas (4) | Games still taking people |
+| Games (space section, space settings) | Juegos |  |
+| Games allowed here (space settings) | Juegos permitidos aquí | The space's list of apps people can start there |
+| Join (a game, a gift draw) / 9 joined | Participar / 9 participan | **Not "Unirse"**: that is joining a space |
+| seat / free seat / 6 more free seats | plaza / plaza libre / 6 plazas libres más |  |
+| anyone can take the seat (two-player game) | cualquiera puede ocupar la plaza | The button stays "Jugar" (see Play) |
+| Start / Start with 4 people (button: play begins) | Empezar / Empezar con 4 personas | "Crear" opens a game, "Empezar" starts play; after it nobody else can join |
+| Started this game (the host: the person who opened it) | Ha creado la partida | "Tú creaste esta partida". **Never "anfitrión", "organizador"**: "host" is the space's host household elsewhere |
+| Let everyone know (option when opening) | Avisar a todos | One in-app message per member, no push |
+| Close this game | Cerrar la partida | The person who started it, moderators, admins |
+| Waiting for 1 more player | Falta 1 persona |  |
+
+## Gift draw
+
+The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home itself draws the names and shows the result. Names approved by the owner (2026-10-31). Never "Secret Santa".
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Gift draw (the app, one draw) / New gift draw | **Amigo invisible** / Nuevo amigo invisible | el amigo invisible: "un amigo invisible", "Amigo invisible 2026" |
+| wish list / Update my wish list | lista de deseos / Cambiar mi lista de deseos | "la lista de deseos de Ben" |
+| budget | presupuesto | Free text: "unos 20 €" |
+| Exchange day (when presents are given) | Día del intercambio |  |
+| Draw names (button) / draw (verb) | Sortear / sortear |  |
+| draw (noun) / Drawing names … / 2nd draw | sorteo / Sorteando nombres… / 2.º sorteo | **Never "tablas" or "empate"**: those are a game result (Chess). The gift-draw words never stand for a game result, and the other way round |
+| Your name is ready | Ya tienes tu amigo invisible | The person you drew is waiting for you |
+| You're giving a gift to Ben / you're now giving to Cleo | Le regalas a Ben / ahora le regalas a Cleo | **Not "Te ha tocado Ben"**: "te toca" is "your turn" in games |
+| See who you're giving to | Mira a quién le regalas |  |
+| Only you can see this. Ben won't know it's you. | Solo tú puedes ver esto. Ben no sabrá que eres tú. | Say only what holds: nobody, not even the person who started the draw, sees the whole list |
+| Who shouldn't draw each other? (optional) | ¿Quiénes no deben regalarse entre sí? | For couples |
+| pair (two people who don't draw each other) / Add a pair | pareja / Añadir una pareja | **Never "vincular"**: that is pairing households |
+| Draw again (after the reveal) / Everyone gets a new name | Repetir el sorteo / Todos reciben un nombre nuevo |  |
+| Draw without them / Keep waiting (a home stays offline) | Sortear sin ellos / Seguir esperando |  |
