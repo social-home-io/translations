@@ -99,8 +99,12 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | English | Nederlands | Notes |
 | --- | --- | --- |
 | Apps (the page, a section) | Apps | Name, never translated |
-| Add to household (an app) | Aan huishouden toevoegen | An admin adds an app for everyone. Not "install" (developer language) |
-| More apps | Meer apps | The apps the household could add. Never "Store" |
+| Add to household (an app) | Aan huishouden toevoegen | An admin adds an app for everyone: the consent dialog and its button. The Store card button is "Install" (below) |
+| More apps | Meer apps | The short list of apps to add, on Your apps |
+| Your apps (the Apps tab) | Jouw apps | The household's apps, one of the two Apps tabs |
+| Store (the Apps tab) | Store | Every app the household can add. Kept as "Store" in every language (owner decision 2026-10-31) |
+| Install (a Store card) | Installeren | An admin's button on a Store card; it opens the "Add to household" consent (owner decision 2026-10-31) |
+| Installed (a Store card) | Geïnstalleerd | The household has the app |
 | Ask an admin | Beheerder vragen | A member asks for an app |
 | Ask a grown-up | Volwassene vragen | A protected account (a child) asks its guardians. Warm, everyday word |
 | Asked (an app) | Gevraagd | The request is waiting |
