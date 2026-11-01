@@ -99,12 +99,13 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | English | Français | Notes |
 | --- | --- | --- |
 | Apps (the page, a section) | Apps | Name, never translated |
-| Add to household (an app) | Ajouter au foyer | An admin adds an app for everyone: the consent dialog and its button. The Store card button is "Install" (below) |
+| Added by Anna / Anna added {app} (an app) | Ajoutée par Anna / Anna a ajouté {app} | Who brought the app into the household: the line on Your apps and the notification. Stays "add": it records who did it, while the admin's action is "Install" (below) |
 | More apps | Autres apps | The short list of apps to add, on Your apps |
 | Your apps (the Apps tab) | Vos apps | The household's apps, one of the two Apps tabs |
 | Store (the Apps tab) | Store | Every app the household can add. Kept as "Store" in every language (owner decision 2026-10-31) |
-| Install (a Store card) | Installer | An admin's button on a Store card; it opens the "Add to household" consent (owner decision 2026-10-31) |
+| Install (an app) / Install {app} for everyone? / Not installed yet | Installer / Installer {app} pour tout le foyer ? / Pas encore installée | The admin's action everywhere: the Store card button, an app's page, the consent dialog (title and button) and the toast after it; "Only admins can install apps". Was "Add to household" for the dialog (owner request 2026-10-31: the dialog says what the button said) |
 | Installed (a Store card) | Installée | The household has the app |
+| 1 game going / 2 games going (an app on Your apps) | 1 partie en cours / 2 parties en cours | On Your apps, after "Added by …": the viewer's own games in that app still going (1:1 games and group games), so it takes the group-play word for a game, not the one-match word. Shown only from 1 |
 | Ask an admin | Demander à un admin | A member asks for an app |
 | Ask a grown-up | Demander à un adulte | A protected account (a child) asks its guardians. Warm, everyday word |
 | Asked (an app) | Demandée | The request is waiting |
