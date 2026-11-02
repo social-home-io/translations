@@ -247,6 +247,40 @@ The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home
 | Draw again (after the reveal) / Everyone gets a new name | Neu auslosen / Alle bekommen einen neuen Namen |  |
 | Draw without them / Keep waiting (a home stays offline) | Ohne sie auslosen / Weiter warten |  |
 
+## Gallery
+
+The household gallery (redesign, 2026-11). Storage words stay plain: photos and videos, never "media files". A deleted household photo waits 30 days in the trash; a space has no trash.
+
+| English | Deutsch | Notes |
+| --- | --- | --- |
+| Gallery | Galerie | The section; also in running text: „in der Galerie“ |
+| album / albums | Album / Alben | A photo lives in exactly one album |
+| photos and videos | Fotos und Videos | Never „Medien“ or „Elemente“ in a sentence people read |
+| upload / Upload (button) | hochladen / Hochladen | n. Upload, pl. Uploads |
+| caption | **Bildunterschrift** | The text under one photo. **Not „Beschreibung“**: that is an album's description (fixed in the app, 2026-11-02) |
+| description (of an album) | Beschreibung |  |
+| date taken / Taken (info row) | Aufnahmedatum / Aufgenommen | Only the day is kept, never the time or place |
+| added by Lena | hinzugefügt von Lena | Short form in lists: „von Lena“ — the gallery search understands „von Lena“ |
+| Select | Auswählen |  |
+| Move to album | Zu Album / in ein anderes Album verschieben |  |
+| delete (a photo) | löschen | In the household it goes to the Papierkorb first |
+| trash | **Papierkorb** | „30 Tage im Papierkorb“. Not „Mülleimer“ |
+| Restore | Wiederherstellen | „aus dem Papierkorb zurückgeholt“ for an upload that brought one back |
+| Delete forever | Endgültig löschen | Only from the Papierkorb |
+| Empty the trash | Papierkorb leeren |  |
+| Favourites / Favourite (♡) | Favoriten / Favorit | Private: only you see yours |
+| On this day | An diesem Tag | The card's title; quoted in running text: „An diesem Tag“ |
+| {n} years ago today | Heute vor {n} Jahren | One: „Heute vor einem Jahr“ |
+| Needs you (upload sheet) | Wartet auf dich | Same as Spaces › Needs you |
+| already here (a duplicate upload) | schon da | „3 schon da“ |
+| Private – only these people (album) | Privat – nur diese Personen | A private album: its owner and the people chosen. Card label: „Privates Album“ |
+| Everyone at home (album) | Alle zu Hause | The default: an album open to the whole household |
+| Posts (the automatic album) | Beiträge | Photos from the feed land here by themselves |
+| Share a copy | Kopie teilen | Sharing always sends a copy; the photo stays where it is |
+| Photo screensaver (wall) | Foto-Bildschirmschoner | The wall tablet / panel shows photos when nobody uses it |
+| wall (tablet, panel) | Wand | „an der Wand“ |
+| Search (gallery) | Suchen | Finds album names, captions, who added it, month and year — never faces, objects or places |
+
 ## Website
 
 | English                          | Deutsch             |

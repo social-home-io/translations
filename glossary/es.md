@@ -234,3 +234,38 @@ The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home
 | pair (two people who don't draw each other) / Add a pair | pareja / Añadir una pareja | **Never "vincular"**: that is pairing households |
 | Draw again (after the reveal) / Everyone gets a new name | Repetir el sorteo / Todos reciben un nombre nuevo |  |
 | Draw without them / Keep waiting (a home stays offline) | Sortear sin ellos / Seguir esperando |  |
+
+## Gallery
+
+The household gallery (redesign, 2026-11). Storage words stay plain: photos and videos, never «media files». A deleted household photo waits 30 days in the trash; a space has no trash.
+
+| English | Español | Notes |
+| --- | --- | --- |
+| Gallery | Galería | «en la galería» |
+| album / albums | álbum / álbumes | Una foto vive en un solo álbum |
+| photos and videos | fotos y vídeos |  |
+| upload / Upload (button) | subir / Subir | n. subida |
+| caption | **pie de foto** | Not «descripción»: that is an album's description (fixed in the app, 2026-11-02) |
+| description (of an album) | descripción |  |
+| date taken / Taken (info row) | fecha de captura | The same words everywhere (the edit dialog said «Fecha de la foto», fixed 2026-11-02) |
+| added by Lena | de Lena / añadida por Lena | The gallery search understands «por Lena» («de» is too common a word) |
+| Select | Seleccionar |  |
+| Move to album | Mover a álbum |  |
+| delete (a photo) | **eliminar** | Not «borrar» (the viewer said «Borrar», fixed 2026-11-02). In the household it goes to the papelera first |
+| trash | **papelera** | «30 días en la papelera» |
+| Restore | Restaurar | «recuperados de la papelera» for an upload that brought one back |
+| Delete forever | Eliminar para siempre |  |
+| Empty the trash | Vaciar la papelera |  |
+| Favourites / Favourite (♡) | Favoritos / Favorito | Private: only you see yours |
+| On this day | Tal día como hoy |  |
+| {n} years ago today | Hoy hace {n} años | One: «Hoy hace un año» |
+| Needs you (upload sheet) | Te necesita | Same as Spaces › Needs you |
+| already here (a duplicate upload) | ya en la galería |  |
+| Private – only these people (album) | Privado: solo estas personas | Card label: «Álbum privado» |
+| Everyone at home (album) | Todos en casa |  |
+| Posts (the automatic album) | Publicaciones | Photos from Novedades land here by themselves (never «feed»; fixed 2026-11-02) |
+| Share a copy | Compartir una copia |  |
+| Photo screensaver (wall) | Salvapantallas de fotos |  |
+| wall (tablet, panel) | pantalla de pared / pared |  |
+| space album | álbum del espacio | Never «spaces» in Spanish text (fixed in the app, 2026-11-02) |
+| Search (gallery) | Buscar | Never faces, objects or places |

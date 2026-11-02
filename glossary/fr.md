@@ -253,3 +253,38 @@ The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home
 | pair (two people who don't draw each other) / Add a pair | paire / Ajouter une paire | **Never « jumeler », « jumelé »**: that is pairing households |
 | Draw again (after the reveal) / Everyone gets a new name | Refaire le tirage / Chacun reçoit un nouveau nom |  |
 | Draw without them / Keep waiting (a home stays offline) | Tirer au sort sans eux / Continuer d’attendre |  |
+
+## Gallery
+
+The household gallery (redesign, 2026-11). Storage words stay plain: photos and videos, never « media files ». A deleted household photo waits 30 days in the trash; a space has no trash.
+
+| English | Français | Notes |
+| --- | --- | --- |
+| Gallery | Galerie | « dans la galerie » |
+| album / albums | album / albums | Une photo vit dans un seul album |
+| photos and videos | photos et vidéos |  |
+| upload / Upload (button) | envoyer / Envoyer | n. envoi. **Not « téléverser », « uploader »** |
+| caption | légende | Not « description »: that is an album's |
+| description (of an album) | description |  |
+| date taken / Taken (info row) | date de prise de vue | The same words in the info panel and the edit dialog (fixed in the app, 2026-11-02) |
+| added by Lena | ajoutée par Lena | The gallery search understands « par Lena » |
+| Select | Sélectionner |  |
+| Move to album | Déplacer vers un album |  |
+| delete (a photo) | supprimer | In the household it goes to the corbeille first |
+| trash | **corbeille** | « 30 jours dans la corbeille » |
+| Restore | Restaurer | « récupérés de la corbeille » for an upload that brought one back |
+| Delete forever | Supprimer définitivement |  |
+| Empty the trash | Vider la corbeille |  |
+| Favourites / Favourite (♡) | Favoris / Favori | Private: visible only to you |
+| On this day | Ce jour-là |  |
+| {n} years ago today | Il y a {n} ans aujourd’hui | One: « Il y a un an aujourd’hui » |
+| Needs you (upload sheet) | Attend votre décision | Same as Spaces › Needs you |
+| already here (a duplicate upload) | déjà là |  |
+| Private – only these people (album) | Privé – seulement ces personnes | Card label: « Album privé » |
+| Everyone at home (album) | Tout le foyer |  |
+| Posts (the automatic album) | Publications |  |
+| Share a copy | Partager une copie |  |
+| Photo screensaver (wall) | Économiseur d’écran photos |  |
+| wall (tablet, panel) | écran mural / mur | « au mur » |
+| space album | album de l’espace / album d’espace | Never « album de space » (fixed in the app, 2026-11-02) |
+| Search (gallery) | Rechercher | Never faces, objects or places |
