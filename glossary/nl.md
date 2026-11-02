@@ -245,6 +245,40 @@ The gift draw (Secret Santa) in the Gift draw app (socialhome-apps); Social Home
 | Draw again (after the reveal) / Everyone gets a new name | Opnieuw trekken / Iedereen krijgt een nieuw lootje |  |
 | Draw without them / Keep waiting (a home stays offline) | Zonder hen trekken / Blijven wachten |  |
 
+## Gallery
+
+The household gallery (redesign, 2026-11). Storage words stay plain: photos and videos, never "media files". A deleted household photo waits 30 days in the trash; a space has no trash.
+
+| English | Nederlands | Notes |
+| --- | --- | --- |
+| Gallery | Galerij | „in de galerij“ |
+| album / albums | album / albums | A photo lives in exactly one album |
+| photos and videos | foto's en video's |  |
+| upload / Upload (button) | uploaden / Uploaden | n. upload, pl. uploads |
+| caption | bijschrift | Not „beschrijving“: that is an album's description |
+| description (of an album) | beschrijving |  |
+| date taken / Taken (info row) | opnamedatum / Gemaakt | Only the day is kept |
+| added by Lena | toegevoegd door Lena | The gallery search understands „door Lena“, not „van Lena“ („van“ is part of many names). App lists still say „van {names}“ (`gallery.by`); align to „door“ when touched |
+| Select | Selecteren |  |
+| Move to album | Naar album / verplaatsen |  |
+| delete (a photo) | verwijderen | In the household it goes to the prullenbak first |
+| trash | **prullenbak** | „30 dagen in de prullenbak“ |
+| Restore | Terugzetten | „teruggehaald uit de prullenbak“ for an upload that brought one back |
+| Delete forever | Definitief verwijderen |  |
+| Empty the trash | Prullenbak legen |  |
+| Favourites / Favourite (♡) | Favorieten / Favoriet | Private: only you see yours |
+| On this day | Op deze dag |  |
+| {n} years ago today | Vandaag {n} jaar geleden | One: „Vandaag een jaar geleden“ |
+| Needs you (upload sheet) | Wacht op jou | Same as Spaces › Needs you |
+| already here (a duplicate upload) | al aanwezig |  |
+| Private – only these people (album) | Privé – alleen deze mensen | Card label: „Privéalbum“ |
+| Everyone at home (album) | Iedereen thuis |  |
+| Posts (the automatic album) | Berichten |  |
+| Share a copy | Kopie delen |  |
+| Photo screensaver (wall) | Foto-schermbeveiliging |  |
+| wall (tablet, panel) | wand | „op de wand“ |
+| Search (gallery) | Zoeken | Never faces, objects or places |
+
 ## Website
 
 | English                          | Nederlands          |
