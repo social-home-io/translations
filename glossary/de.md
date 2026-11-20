@@ -47,6 +47,7 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | GFS (Global Federation Server) | GFS (Global Federation Server)                   | Gloss on first use; never translate                                                                         |
 | GFS link / Local link          | GFS-Link / Lokaler Link                          |                                                                                                             |
 | relay                          | Relay                                            |                                                                                                             |
+| mailbox (on a GFS)             | Postfach                                         | pl. Postfächer; Postfach-ID. Site only, the app never names it. Not "Briefkasten", "Mailbox" |
 | sealed, encrypted home to home | versiegelt, verschlüsselt von Zuhause zu Zuhause | Never "Ende-zu-Ende"                                                                                        |
 
 ## Bereiche der App

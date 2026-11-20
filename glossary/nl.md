@@ -45,6 +45,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | GFS (Global Federation Server) | GFS (Global Federation Server)           | Gloss on first use  |
 | GFS link / Local link          | GFS-link / Lokale link                   |                     |
 | relay                          | relay                                    |                     |
+| mailbox (on a GFS)             | brievenbus                               | pl. brievenbussen. Not "postvak" (sounds like e-mail). Site only, the app never names it |
 | sealed, encrypted home to home | verzegeld, versleuteld van huis tot huis | Never "end-to-end"  |
 
 ## Onderdelen van de app

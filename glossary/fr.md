@@ -45,6 +45,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | GFS (Global Federation Server) | GFS (Global Federation Server)     | Gloss on first use; le GFS                                            |
 | GFS link / Local link          | Lien GFS / Lien local              |                                                                       |
 | relay                          | relais                             |                                                                       |
+| mailbox (on a GFS)             | boîte aux lettres                  | pl. boîtes aux lettres. Site only, the app never names it |
 | sealed, encrypted home to home | scellé, chiffré de maison à maison | Never « de bout en bout »                                             |
 
 ## Sections de l'app
