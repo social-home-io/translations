@@ -10,6 +10,7 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | your home            | dein Zuhause                   | The thing that sends, stores and pairs. Not "dein Home Assistant" |
 | member               | Mitglied                       |                                                                   |
 | owner                | Eigentümer                     |                                                                   |
+| host (of a space) | Gastgeber / Gastgeber-Haushalt | The household that hosts a space. Not "Host" (decided 2026-11-23) |
 | admin                | Admin                          | pl. Admins                                                        |
 | moderator            | Moderator                      |                                                                   |
 | Follower / follow    | Follower / folgen              | pl. Follower. Not "Abonnent"                                      |
@@ -49,6 +50,11 @@ Anrede: **du**. Siehe [GUIDE.md](../GUIDE.md).
 | relay                          | Relay                                            |                                                                                                             |
 | mailbox (on a GFS)             | Postfach                                         | pl. Postfächer; Postfach-ID. Site only, the app never names it. Not "Briefkasten", "Mailbox" |
 | sealed, encrypted home to home | versiegelt, verschlüsselt von Zuhause zu Zuhause | Never "Ende-zu-Ende"                                                                                        |
+| move to another GFS (when one is down) | auf einen anderen GFS umziehen | „Dein Haushalt zieht um“. Not „migrieren“, „wechseln“ |
+| Is everything here? (space settings) | Ist alles da? | App label; status „Alles ist da“, button „Jetzt prüfen“ |
+| catch up / fill in (from any member) | nachholen / nachliefern | „Jedes Mitglied kann dir nachliefern“ |
+| sync page | Sync-Seite | Site only, the app never names it |
+| bucket (of a sync page) | Bucket | Only inside „Unter der Haube“ |
 
 ## Bereiche der App
 

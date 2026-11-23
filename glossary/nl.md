@@ -10,6 +10,7 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | your home            | je thuis                             | Not "je Home Assistant"           |
 | member               | lid                                  | pl. leden                         |
 | owner                | eigenaar                             |                                   |
+| host (of a space) | gastheer / gastheer-huishouden | The household that hosts a space. Not "host" (decided 2026-11-23) |
 | admin                | beheerder                            |                                   |
 | moderator            | moderator                            |                                   |
 | Follower / follow    | volger / volgen                      | Not "abonnee"                     |
@@ -47,6 +48,11 @@ Aanspreekvorm: **je**. Zie [GUIDE.md](../GUIDE.md).
 | relay                          | relay                                    |                     |
 | mailbox (on a GFS)             | brievenbus                               | pl. brievenbussen. Not "postvak" (sounds like e-mail). Site only, the app never names it |
 | sealed, encrypted home to home | verzegeld, versleuteld van huis tot huis | Never "end-to-end"  |
+| move to another GFS (when one is down) | naar een andere GFS verhuizen | "Je huishouden verhuist". Not "migreren", "wisselen" |
+| Is everything here? (space settings) | Is alles er? | App label; status "Alles is er", button "Nu controleren" |
+| catch up / fill in (from any member) | bijwerken / aanvullen | "Elk lid kan je aanvullen" |
+| sync page | sync-pagina | Site only, the app never names it |
+| bucket (of a sync page) | bucket | Only inside "Onder de motorkap" |
 
 ## Onderdelen van de app
 

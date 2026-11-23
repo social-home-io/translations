@@ -14,6 +14,7 @@ under "Open" are still undecided.
 | your home         | tu hogar              | Not "tu Home Assistant" |
 | member            | miembro               |                         |
 | owner             | propietario           |                         |
+| host (of a space) | anfitrión / hogar anfitrión | The household that hosts a space (decided 2026-11-23) |
 | admin             | admin                 |                         |
 | moderator         | moderador             |                         |
 | Follower / follow | seguidor / seguir     |                         |
@@ -40,6 +41,11 @@ under "Open" are still undecided.
 | GFS (Global Federation Server) | GFS (Global Federation Server)    | el GFS                       |
 | GFS link / Local link          | Enlace del GFS / Enlace local     |                              |
 | sealed, encrypted home to home | sellado, cifrado de hogar a hogar | Never "de extremo a extremo" |
+| move to another GFS (when one is down) | pasar a otro GFS | «Tu hogar pasa a otro GFS». Not «migrar» |
+| Is everything here? (space settings) | ¿Está todo aquí? | App label; button «Comprobar ahora» |
+| catch up / fill in (from any member) | ponerse al día / completar | |
+| sync page | página de sincronización | Site only, the app never names it |
+| bucket (of a sync page) | bucket | Only inside technical text |
 
 ## Secciones de la app
 
