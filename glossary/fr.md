@@ -10,6 +10,7 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | your home            | votre maison                     | Not "votre Home Assistant"        |
 | member               | membre                           |                                   |
 | owner                | propriétaire                     |                                   |
+| host (of a space) | hôte / foyer hôte | The household that hosts a space (decided 2026-11-23) |
 | admin                | admin                            |                                   |
 | moderator            | modérateur                       |                                   |
 | Follower / follow    | abonné / suivre                  |                                   |
@@ -47,6 +48,11 @@ Vouvoiement : **vous**. Voir [GUIDE.md](../GUIDE.md).
 | relay                          | relais                             |                                                                       |
 | mailbox (on a GFS)             | boîte aux lettres                  | pl. boîtes aux lettres. Site only, the app never names it |
 | sealed, encrypted home to home | scellé, chiffré de maison à maison | Never « de bout en bout »                                             |
+| move to another GFS (when one is down) | passer à un autre GFS | « Votre foyer passe à un autre GFS ». Not « migrer », « se déplacer » |
+| Is everything here? (space settings) | Tout est là ? | App label; status « Tout est là », button « Vérifier maintenant » |
+| catch up / fill in (from any member) | rattraper / compléter | « N'importe quel membre peut vous aider à rattraper » |
+| sync page | page de synchronisation | Site only, the app never names it |
+| bucket (of a sync page) | compartiment | Only inside « Sous le capot » |
 
 ## Sections de l'app
 
